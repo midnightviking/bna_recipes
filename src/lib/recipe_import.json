@@ -1,0 +1,4664 @@
+[
+  {
+    "title": "SAUSAGE GRAVY",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan mix peppered gravy per package directions\nHeat MST and add to gravy mix\nHeat to 165 degree\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Sausage Patty",
+    "ingredients": [
+      [
+        "MST",
+        12.5,
+        "lbs"
+      ],
+      [
+        "Peppered Gravy Mix",
+        6,
+        "bags"
+      ],
+      [
+        "Water  ",
+        6,
+        "gal"
+      ]
+    ]
+  },
+  {
+    "title": "WESTERN SCRAMBLED EGGS",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "2oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Add all ingredients and heat to 165 degrees \nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "",
+    "ingredients": [
+      [
+        "Liquid Eggs",
+        6.5,
+        "qts"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        2,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Whole Eggs",
+        100,
+        "ea"
+      ]
+    ]
+  },
+  {
+    "title": "GRITS",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "Bring water to boil on large pot/tilt skillet\nAdd salt , pepper and margarine\nSlowly add grits, while constantly stirring to avoid lumps\nBring back to a boil, reduce heat.\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Rice",
+    "ingredients": [
+      [
+        "Grits",
+        5,
+        "qts"
+      ],
+      [
+        "Water",
+        5,
+        "gal"
+      ],
+      [
+        "Margarine",
+        6,
+        "oz"
+      ],
+      [
+        "Salt",
+        3,
+        "tbs"
+      ],
+      [
+        "Black Pepper",
+        2,
+        "tbs"
+      ]
+    ]
+  },
+  {
+    "title": "OATMEAL",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165 degrees",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pan, bring water to a boil\nAdd syrup and margarine to water\nSlowly at oatmeal, while stirring constantly to avoid clumping\nBring back to a boil\nServe hot or hold at 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Oatmeal",
+        1.25,
+        "GAL"
+      ],
+      [
+        "Water",
+        5,
+        "GAL"
+      ],
+      [
+        "Margarine",
+        4,
+        "OZ"
+      ],
+      [
+        "Syrup",
+        1.5,
+        "CUP"
+      ]
+    ]
+  },
+  {
+    "title": "COFFEE CAKE",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "1/48 cut",
+    "min_temp": "N/A",
+    "item_type": "Dessert",
+    "cooking_notes": "Make your yellow cake mix following the instructions on the bag (5lbs of mix to 5 cups of water per pan)\nPour cake mix into greased sheet pans and level\nIn a separate bowl, mix oats, white Sugar, cinnamon, flour and softened margarine\nWith gloves on, hand mix crumble topping\nSprinkle on top of each cake pan\nBake at 350 dgrees for 15-20 minutes",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Yellow Cake Mix",
+        12.5,
+        "lbs"
+      ],
+      [
+        "Oats",
+        1.25,
+        "QT"
+      ],
+      [
+        "Margarine",
+        1,
+        "lbs"
+      ],
+      [
+        "Syrup",
+        1,
+        "cups"
+      ],
+      [
+        "Cinnamon",
+        2,
+        "TBS"
+      ],
+      [
+        "Flour",
+        1,
+        "cups"
+      ],
+      [
+        "Water",
+        3,
+        "QTS"
+      ]
+    ]
+  },
+  {
+    "title": "MUFFIN",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "1/48 cut Grid Cut",
+    "min_temp": "165F",
+    "item_type": "Bread",
+    "cooking_notes": "Follow Instructions on bag. Add margarine.  Bake\nUse grid to cut, based on menus grid size.\nCover, serve within 2 days",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Muffin Mix",
+        15,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        3,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "PANCAKE",
+    "recipe_type": "breakfast",
+    "calories": 129,
+    "portion_size": "Grid Cut",
+    "min_temp": "165F",
+    "item_type": "Bread",
+    "cooking_notes": "Follow Instructions on bag\nSwirl in syrup evenly across the top of pancake batter.\nUse grid to cut, based on menus grid size.\nCover, serve within 2 days",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Pancake Mix",
+        15,
+        "lbs"
+      ],
+      [
+        "Syrup",
+        2,
+        "cup"
+      ],
+      [
+        "margarine",
+        8,
+        "ounces"
+      ]
+    ]
+  },
+  {
+    "title": "CEREAL BAR",
+    "recipe_type": "breakfast",
+    "calories": "165F",
+    "portion_size": "1/48 cut",
+    "min_temp": "N/A",
+    "item_type": "Dessert",
+    "cooking_notes": "Mix all ingredients together.  Press into sheet pan.  Chill.  Cut and serve",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "OATS",
+        1.75,
+        "GAL"
+      ],
+      [
+        "SYRUP",
+        0.5,
+        "GAL"
+      ],
+      [
+        "PEANUT BUTTER",
+        1.25,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "PEANUT BUTTER CEREAL BAR",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "1/48 cut",
+    "min_temp": "N/A",
+    "item_type": "Dessert",
+    "cooking_notes": "Mix all ingredients together.  Press into sheet pan.  Chill  Cut and serve.",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "CEREAL",
+        5,
+        "CUPS"
+      ],
+      [
+        "PEANUT BUTTER  ",
+        3.75,
+        "cups"
+      ],
+      [
+        "SYRUP",
+        2.5,
+        "CUPS"
+      ]
+    ]
+  },
+  {
+    "title": "HONEY BUN COFFEE CAKE",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "1/48 cut",
+    "min_temp": "N/A",
+    "item_type": "bread",
+    "cooking_notes": "Make your yellow cake mix following the instructions on the bag (5lbs of mix to 5 cups of water per pan)\nPour HALF cake mix into greased sheet pans and level\nIn a separate bowl, mix syrup, cinnamon, powdered sugar vanilla ; pour over batter\nadd remaining batter;  swirl\nBake at 350 dgrees for 15-20 minutes",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Yellow Cake Mix",
+        12.5,
+        "lbs"
+      ],
+      [
+        "SYRUP",
+        10,
+        "cups"
+      ],
+      [
+        "CINNAMON",
+        0.75,
+        "cups"
+      ],
+      [
+        "POWDERED SUGAR",
+        2.5,
+        "QT"
+      ],
+      [
+        "VANILLA",
+        0.5,
+        "cups"
+      ],
+      [
+        "WATER",
+        2.5,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "STREUSAL COFFEE CAKE",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "1/48 cut",
+    "min_temp": "N/A",
+    "item_type": "Dessert",
+    "cooking_notes": "Make your yellow cake mix following the instructions on the bag (5lbs of mix to 5 cups of water per pan)\nPour cake mix into greased sheet pans and level\nIn a separate bowl, mix oats, white Sugar, cinnamon, flour and softened margarine\nWith gloves on, hand mix crumble topping\nSprinkle on top of each cake pan\nBake at 350 dgrees for 15-20 minutes",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Yellow Cake Mix",
+        12.5,
+        "lbs"
+      ],
+      [
+        "Syrup",
+        1.5,
+        "QT"
+      ],
+      [
+        "Margarine",
+        3,
+        "lbs"
+      ],
+      [
+        "FLOUR",
+        1.5,
+        "QT"
+      ],
+      [
+        "Cinnamon",
+        0.25,
+        "cups"
+      ],
+      [
+        "SALT",
+        1,
+        "TBS"
+      ]
+    ]
+  },
+  {
+    "title": "CINNAMON COFFEE CAKE",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "1/48 cut",
+    "min_temp": "N/A",
+    "item_type": "Dessert",
+    "cooking_notes": "Make your yellow cake mix following the instructions on the bag (5lbs of mix to 5 cups of water per pan)\nPour HALF cake mix into greased sheet pans and level\nIn a separate bowl, mix SYRUP, cinnamon, and softened margarine\nSPREAD OVER BATTER;   ADD REMAINING BATTER\nBake at 350 dgrees for 15-20 minutes",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Yellow Cake Mix",
+        12.5,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        0.75,
+        "lbs"
+      ],
+      [
+        "Syrup",
+        1.5,
+        "QT"
+      ],
+      [
+        "Cinnamon",
+        0.67,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "OAT CEREAL BAR",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "1/48 cut",
+    "min_temp": "N/A",
+    "item_type": "Dessert",
+    "cooking_notes": "HEAT SYRUP, PEANUT BUTTER TIL SMOOTH ADD VANILLA\nPOUR OVER CEREAL PRESS INTO PAN  CHILL",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "CEREAL",
+        3,
+        "QT"
+      ],
+      [
+        "Oats",
+        1.5,
+        "QT"
+      ],
+      [
+        "VANILLA",
+        2,
+        "TBS"
+      ],
+      [
+        "Syrup",
+        3,
+        "cups"
+      ],
+      [
+        "PEANUT BUTTER",
+        3,
+        "CUPS"
+      ]
+    ]
+  },
+  {
+    "title": "OKIE CEREAL BAR",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "1/48 cut",
+    "min_temp": "N/A",
+    "item_type": "Dessert",
+    "cooking_notes": "HEAT SYRUP, PEANUT BUTTER TIL SMOOTH ADD VANILLA.  ADD CINNAMON AND SALT\nPOUR OVER CEREAL PRESS INTO PAN  CHILL",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "CEREAL",
+        2.5,
+        "QT"
+      ],
+      [
+        "Oats",
+        3,
+        "QT"
+      ],
+      [
+        "VANILLA",
+        2,
+        "TBS"
+      ],
+      [
+        "Syrup",
+        3,
+        "cups"
+      ],
+      [
+        "PEANUT BUTTER",
+        1.5,
+        "QT"
+      ],
+      [
+        "SALT",
+        1,
+        "TBS"
+      ],
+      [
+        "CINNAMON",
+        2,
+        "TBS"
+      ]
+    ]
+  },
+  {
+    "title": "RICE",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pot/tilt skillet, add all ingredients but the rice, and stir\nBring to a boil\nAdd rice and stir\nCover and cook for 10-15 minutes\nRemove from heat and let stand for 10-15 minutes\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Margarine",
+        8,
+        "oz"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Rice",
+        2.25,
+        "gal"
+      ],
+      [
+        "Water",
+        4.5,
+        "gal"
+      ]
+    ]
+  },
+  {
+    "title": "ASIAN BEEF",
+    "recipe_type": "entrees",
+    "calories": 309,
+    "portion_size": "3oz +7 steak bites per serving",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In large pan,  melt margarine\nAdd diced peppers and onions, saute, stir frequently \nAdd sweet & sour sauce and water, heat to 165 degrees.  Add broccoli.  \nPut steak bites in pans and heat in oven to 165 degrees (DO NOT OVERCOOK).  Add steak bites to sauce. Stir well.\nServe hot or hold above 140 dgrees\n\nSERVING NOTES:\nTray up broccoli in separate hole. Tray rice in large hole, top with 3oz vegetable sauce.  \nPlace 6 steak bite on top of rice, unless there is an extra open slot on tray",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Meatballs,",
+    "ingredients": [
+      [
+        "Beef Steak Bites",
+        700,
+        "ea"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        4,
+        "oz"
+      ],
+      [
+        "Sweet & Sour Sauce",
+        1,
+        "gal"
+      ],
+      [
+        "Onion (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Water",
+        1,
+        "qt"
+      ],
+      [
+        "Broccoli",
+        12,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "CAJUN BEANS",
+    "recipe_type": "entrees",
+    "calories": 215,
+    "portion_size": "3oz (6 meatballs per serving)  ",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "Inspect beans for rocks, sticks prior to rinse.\nRinse and soak beans overnight in large pan/pot or tub\n2 hrs before service start cooking beans, until tender.\nAdd MST and cook until reaches 165 degrees\nIn a separate pan, saute onions and bell peppers\nAdd onions, peppers, tomatoes and blackened seasoning to beans.\nSimmer for 10 minutes\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:  MSC, Ground Chicken",
+    "ingredients": [
+      [
+        "MST",
+        15,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Peppers (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Pinto Beans",
+        5,
+        "lbs"
+      ],
+      [
+        "Blackened Spice (Cajun)",
+        2.5,
+        "cups"
+      ],
+      [
+        "TOMATOES WHOLE",
+        1,
+        "#10"
+      ],
+      [
+        "Margarine",
+        3.75,
+        "oz"
+      ]
+    ]
+  },
+  {
+    "title": "BBQ MEATBALLS",
+    "recipe_type": "entrees",
+    "calories": 215,
+    "portion_size": "3oz (6 meatballs per serving)",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a hotel pan, heat water and BBQ sauce to a boil.\nPan up meatballs and heat in oven until 165 degrees.  (DO NOT OVER COOK)\nPour sauce over meatballs and put back into oven, heat until 165 degrees\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Meatballs",
+        600,
+        "ea"
+      ],
+      [
+        "BBQ Sauce",
+        3,
+        "qts"
+      ],
+      [
+        "Water",
+        1,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "BBQ TURKEY",
+    "recipe_type": "entrees",
+    "calories": 275,
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Heat turkey to above 165 degrees.\nChop turkey by hand or shred in mixer.\nCombine water, BBQ sauce and turkey and heat up to above 165 degrees\nBLAND DIET:  No BBQ sauce",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Turkey End & Pieces",
+        25,
+        "lbs"
+      ],
+      [
+        "Water",
+        1,
+        "gal"
+      ],
+      [
+        "BBQ Sauce",
+        3,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "CHICKEN A LA KING",
+    "recipe_type": "entrees",
+    "calories": 285,
+    "portion_size": "10oz     ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan/tilt skillet, melt margarine\nAdd celery, bell peppers and onions, saute\nAdd water to the celery and carrots.  Add chicken, salt and pepper\nBring to a boil\nAdd peas, return to a boil\nIn a bowl mix gravy with cold water until smooth\nAdd gravy slurry to boiling mixture, stirring until thickened\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Turkey Ends & Pieces, Diced Chicken",
+    "ingredients": [
+      [
+        "Chicken Strip/Chunks",
+        25,
+        "lbs"
+      ],
+      [
+        "Water  ",
+        1.5,
+        "gal"
+      ],
+      [
+        "Pepper",
+        2,
+        "tbs"
+      ],
+      [
+        "Salt",
+        3,
+        "tbs"
+      ],
+      [
+        "Bell Peppers (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Peas ",
+        2,
+        "lbs"
+      ],
+      [
+        "Celery (Diced)",
+        2,
+        "lbs"
+      ],
+      [
+        "Carrots, diced",
+        4,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        8,
+        "oz"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Poultry Gravy Mix",
+        1,
+        "bags"
+      ],
+      [
+        "Water (For Gravy Mix)",
+        1,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "CHICKEN FRIED RICE",
+    "recipe_type": "entrees",
+    "calories": 416,
+    "portion_size": "10oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pot/tilt skillet, add water, salt, carrots, peas, and stir\nBring to a boil\nAdd Ends and Pieces and cook for 10 minutes.  Add rice and stir, cook for additional 10 minutes.\nRemove from heat and let stand for 10-15 minutes\nIn a separate pan, saute onions in oil.   \nAdd soy sauce  and onions to rice\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:  MSC, Ground Chicken",
+    "ingredients": [
+      [
+        "Rice",
+        1.75,
+        "gal"
+      ],
+      [
+        "ENDS AND PIECES",
+        17,
+        "lbs"
+      ],
+      [
+        "Water",
+        3.5,
+        "gal"
+      ],
+      [
+        "Salt",
+        3,
+        "tbs"
+      ],
+      [
+        "Peas",
+        1,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        3,
+        "oz"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Carrots",
+        1,
+        "lbs"
+      ],
+      [
+        "Soy Sauce",
+        2.25,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "SWEET & SOUR CHICKEN",
+    "recipe_type": "entrees",
+    "calories": 194,
+    "portion_size": "4oz ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pot/tilt skillet, melt margarine in pan with peppers and onions, saute\nAdd chicken & water, heat to 165 degrees\nCook off water, add sweet & sour sauce. Heat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:  Ground Chicken, MSC",
+    "ingredients": [
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Diced Chicken",
+        25,
+        "lbs"
+      ],
+      [
+        "Sweet & Sour Sauce",
+        1,
+        "gal"
+      ],
+      [
+        "Margarine",
+        4,
+        "oz"
+      ],
+      [
+        "Water",
+        1,
+        "qt"
+      ]
+    ]
+  },
+  {
+    "title": "CHILI CON CARNE",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "10 OZ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Add dry beans to kettle and cover beans with water 6 inches above surface of beans.\nRetain bean cooking liquid..\nRemove beans and hold.\nTurn heat back on and cook at a low simmer until tender, approximately one more hour.\nBring water to a boil, turn off heat and allow beans to soak in hot water for one hour.\nCombine fully thawed MST and onion. Cook and stir until pink is gone\nAdd all remaining ingredients including beans, heat to a simmer, pan and serve\nGLUTEN RESTRICTED:  No cheese",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: MSC, Chicken Sliced/Diced, Turkey Ends and Pieces,",
+    "ingredients": [
+      [
+        "MST",
+        25,
+        "LBS"
+      ],
+      [
+        "Garlic Powder",
+        1.75,
+        "TBS"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "LBS"
+      ],
+      [
+        "Flour",
+        2.5,
+        "CUP"
+      ],
+      [
+        "Tomato Sauce",
+        1.25,
+        "#10"
+      ],
+      [
+        "TOMATOES WHOLE",
+        1.25,
+        "#10"
+      ],
+      [
+        "Syrup ",
+        0.33,
+        "CUP"
+      ],
+      [
+        "Chili Powder",
+        3,
+        "CUP"
+      ],
+      [
+        "Salt",
+        0.33,
+        "CUP"
+      ],
+      [
+        "CHEESE SAUCE",
+        1,
+        "BAG"
+      ],
+      [
+        "Taco Seasoning",
+        2.5,
+        "CUP"
+      ]
+    ]
+  },
+  {
+    "title": "CHILI MAC",
+    "recipe_type": "entrees",
+    "calories": 421,
+    "portion_size": "10 0Z  ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Inspect beans for rocks, sticks prior to rinse.\nRinse and soak beans overnight in large pan/pot or tub\n2 hrs before service start cooking beans, until tender.  Drain water.\nIn another pan, partially brown meat, then add margarine, bell peppers and onion.\nOnce the vegetables are tender, add flour and stir well\nIn a separate pan, add water and cook pasta, drain and set aside\nAdd remaining ingredients to meat mixture , except beans.  Cook until thickened up\nOnce beans are fully cooked, add bean and pasta to mixture and stir thoroughly",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Chicken Sliced/Diced, Turkey Ends and Pieces, MST/MSC",
+    "ingredients": [
+      [
+        "MST",
+        15,
+        "lbs"
+      ],
+      [
+        "Garlic Powder",
+        1.25,
+        "tbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Tomato Sauce",
+        1,
+        "#10"
+      ],
+      [
+        "TOMATOES WHOLE",
+        1,
+        "#10"
+      ],
+      [
+        "SYRUP",
+        0.25,
+        "cups"
+      ],
+      [
+        "Taco Seasoning",
+        1.75,
+        "cups"
+      ],
+      [
+        "Beans",
+        1.75,
+        "lbs"
+      ],
+      [
+        "Water",
+        3,
+        "qts"
+      ],
+      [
+        "Macaroni",
+        10,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "GUMBO",
+    "recipe_type": "entrees",
+    "calories": "347 Calories",
+    "portion_size": "10 OZ ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Heat turkey to above 165 degrees.\nChop turkey by hand or shred in mixer.\nIn a large pan/tilt skillet, melt margarine and add peppers, celery, carrots and onions, saute ingredients\nAdd water to vegetables, then add turkey, tomatoes, blackened seasoning, salt and pepper, bring to a boil\nIn a bowl, mix gravy with cold water until smooth. \nAdd gravy slurry to boiling mixture and stir until thickened \nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:  MSC, Ground Chicken",
+    "ingredients": [
+      [
+        "Turkey Ends & Pieces",
+        21,
+        "lbs"
+      ],
+      [
+        "Water",
+        3,
+        "gal"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Carrots (Diced)",
+        2.5,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        3,
+        "lbs"
+      ],
+      [
+        "TOMATOES WHOLE",
+        1.25,
+        "#10 can"
+      ],
+      [
+        "Water (For Gravy Mix)",
+        2.5,
+        "qts"
+      ],
+      [
+        "Poultry Gravy Mix",
+        2.5,
+        "bags"
+      ],
+      [
+        "Blackened Spice  ",
+        1.25,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "MEATBALLS - GRAVY",
+    "recipe_type": "entrees",
+    "calories": 205,
+    "portion_size": "3oz (6 meatballs per serving)    ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Heat turkey to above 165 degrees.\nChop turkey by hand or shred in mixer.\nIn a large pan/tilt skillet, melt margarine and add peppers, celery, carrots and onions, saute ingredients\nAdd water to vegetables, then add turkey, tomatoes, blackened seasoning, salt and pepper, bring to a boil\nIn a bowl, mix gravy with cold water until smooth. \nAdd gravy slurry to boiling mixture and stir until thickened \nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Meatballs",
+        600,
+        "ea"
+      ],
+      [
+        "Brown Gravy Mix",
+        1,
+        "bag"
+      ],
+      [
+        "Water  (Cold) ",
+        1,
+        "qts"
+      ],
+      [
+        "Water (Hot)",
+        3,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "MEATBALLS  - SWEET & SOUR",
+    "recipe_type": "entrees",
+    "calories": 224,
+    "portion_size": "3oz (6 meatballs per serving)  ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Bring water and sweet & sauce to a boil in pan.\nPan up meatballs and cook in oven until temp reaches 165 degrees\nPour sauce over meatballs and put back into oven, heat until 165 degrees\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Meatballs",
+        600,
+        "ea"
+      ],
+      [
+        "Sweet & Sour Sauce",
+        1,
+        "qts"
+      ],
+      [
+        "Water",
+        1,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "NACHO MEAT W/ BEANS",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Inspect beans for rocks, sticks prior to rinse.\nRinse and soak beans overnight in large pan/pot or tub\n2 hrs before service start cooking beans, until tender.\nDrain Water\nAdd onions, pepper and taco seasoning to beans, simmer for 20 minutes (DON’T BURN BEANS)\nUse a masher/mixer to mash the beans\nIn another pan, cook meat, then add to beans. Heat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: MSC, Chicken Sliced/Diced, Turkey Ends and Pieces,",
+    "ingredients": [
+      [
+        "Pinto Beans",
+        6,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Taco Seasoning",
+        8,
+        "oz"
+      ],
+      [
+        "Water",
+        1.5,
+        "gal"
+      ],
+      [
+        "Preseason Taco Meat",
+        20,
+        "lbs"
+      ],
+      [
+        "MST",
+        20,
+        "lbs"
+      ],
+      [
+        "Taco Seasoning",
+        16,
+        "oz"
+      ],
+      [
+        "Onions (Diced)",
+        2,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "PASTA BAKE",
+    "recipe_type": "entrees",
+    "calories": 434,
+    "portion_size": "10oz ",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pot/tilt skillet, brown MST, heat to 165 degrees and drain.\nAdd margarine to pan, melt and saute celery, peppers, and onions\nMix pasta with remaining ingredients, stir to combine\nHeat mixture to 165 degrees\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Macaroni (Cooked, Drained)",
+        12,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "MST",
+        20,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Peppers (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        4,
+        "oz"
+      ],
+      [
+        "Tomato Whole",
+        1,
+        "#10 can"
+      ],
+      [
+        "Tomato Sauce",
+        1,
+        "#10"
+      ]
+    ]
+  },
+  {
+    "title": "SLOPPY JOE",
+    "recipe_type": "entrees",
+    "calories": 341,
+    "portion_size": "4oz    ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan/tilt skillet, brown meat\nAdd  peppers and onions and saute\nAdd remaining ingredients.  Cook until thickened up and 165 degrees\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: MSC, Ground Chicken",
+    "ingredients": [
+      [
+        "MST",
+        20,
+        "LBS"
+      ],
+      [
+        "Ketchup",
+        1,
+        "#10"
+      ],
+      [
+        "Black Pepper ",
+        1,
+        "TBS"
+      ],
+      [
+        "Salt",
+        2,
+        "TBS"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "Bell Peppers (Diced)",
+        0.5,
+        "LBS"
+      ],
+      [
+        "SYRUP",
+        0.33,
+        "CUP"
+      ],
+      [
+        "Oatmeal",
+        1,
+        "GAL"
+      ]
+    ]
+  },
+  {
+    "title": "STEAK BITES",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "3oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Pan up steak bites and cook in oven until temp reaches 165 degrees, don’t overcook\nMake gravy per package directions\nPour gravy over steak bites and put back into oven,\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: MSC, Ground Chicken",
+    "ingredients": [
+      [
+        "Steak Bites",
+        1,
+        "ea"
+      ],
+      [
+        "Pepper Gravy Mix",
+        2,
+        "bags"
+      ],
+      [
+        "Water",
+        2,
+        "gal"
+      ]
+    ]
+  },
+  {
+    "title": "GRAVY",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "2oz",
+    "min_temp": "165F",
+    "item_type": "Sauce",
+    "cooking_notes": "Follow directions on gravy package\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Gravy Mix",
+        2,
+        "bags"
+      ],
+      [
+        "Water",
+        2,
+        "gal"
+      ]
+    ]
+  },
+  {
+    "title": "STROGANOFF",
+    "recipe_type": "entrees",
+    "calories": 529,
+    "portion_size": "10oz  ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a pan/tilt skillet, partially brown meat, then add margarine, bell peppers and onion.\nMix gravy, per package instructions in separate pot.\nMix in pasta, meat, gravy with remaining ingredients and combine.\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: MST, Taco Meat, Ground Chicken",
+    "ingredients": [
+      [
+        "Macaroni (Cooked and Drained)",
+        10,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Ground Turkey (MST)",
+        20,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Peppers (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Black Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        4,
+        "oz"
+      ],
+      [
+        "Brown Gravy Mix",
+        1,
+        "bag"
+      ],
+      [
+        "Water",
+        1,
+        "gal"
+      ]
+    ]
+  },
+  {
+    "title": "TACO MEAT",
+    "recipe_type": "entrees",
+    "calories": 500,
+    "portion_size": "3oz ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan/tilt skillet brown MST to 165 degrees\nAdd onions and taco seasoning, stir well\nServe hot or hold above 140 dgrees\nGLUTEN RESTRICTED:    No cheese\t",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Taco Meat, MSC",
+    "ingredients": [
+      [
+        "MST",
+        20,
+        "lbs"
+      ],
+      [
+        "Taco Seasoning",
+        16,
+        "oz"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Cheese sauce",
+        1,
+        "bag"
+      ]
+    ]
+  },
+  {
+    "title": "TURKEY MAC & CHEESE",
+    "recipe_type": "entrees",
+    "calories": 499,
+    "portion_size": "10oz     ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Heat up diced ham to 165 degrees using stock pot/tilt skillet\nIn separate pot heat 5 qts of water to a boil, mix 1 qt of cold water to bag of gravy mix. Stir in cheese sauce until smooth\nMix turkey ham and cooked pasta together.  \nAdd salt and pepper and mix sauce with pasta/turkey.\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Chicken Sliced/Diced, Turkey Ends and Pieces, MST/MSC",
+    "ingredients": [
+      [
+        "Macaroni (Cooked, Drained)",
+        10,
+        "lbs"
+      ],
+      [
+        "Cheese Sauce Mix",
+        1,
+        "bags"
+      ],
+      [
+        "Peppered Gravy Mix",
+        1,
+        "bags"
+      ],
+      [
+        "Water",
+        6,
+        "qts"
+      ],
+      [
+        "Pepper ",
+        1,
+        "tbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Turkey Ham, Diced",
+        12,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "TURKEY POT PIE",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "10 OZ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Heat turkey to above 165 degrees.\nChop turkey by hand or shred in mixer.\nIn a large pan/tilt skillet, melt margarine and add celery, carrots and onions, saute ingredients\nAdd water to veggies, then add potatoes, turkey and salt/pepper\nBring to a boil\nAdd peas, return to boil\nIn a bowl mix gravy bag and cold water til smooth, adding gravy slurry to boiling mixture.  Stir until thickened\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Chicken Sliced/Diced, Turkey Ends and Pieces, MST/MSC; Sliced Potatoes. Shredded Potatoes",
+    "ingredients": [
+      [
+        "Turkey Ends & Pieces",
+        21.25,
+        "lbs"
+      ],
+      [
+        "Water",
+        3,
+        "gal"
+      ],
+      [
+        "Pepper ",
+        2.5,
+        "tbs"
+      ],
+      [
+        "Salt",
+        3.75,
+        "tbs"
+      ],
+      [
+        "Potatoes (Diced)",
+        7.5,
+        "lbs"
+      ],
+      [
+        "MIXED VEGETABLES",
+        3.75,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        10,
+        "oz"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Carrots",
+        2.5,
+        "lbs"
+      ],
+      [
+        "Water (For Gravy Mix)",
+        2.5,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "ROASTED TURKEY",
+    "recipe_type": "entrees",
+    "calories": 290,
+    "portion_size": "4oz  ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Heat turkey to above 165 degrees.\nChop turkey by hand or shred in mixer.\nCombine water and turkey and heat up to above 165 degrees\nCook off most of the water and add poultry gravy\nStir well\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "Chicken: Sliced/Diced",
+    "ingredients": [
+      [
+        "Turkey End & Pieces",
+        25,
+        "LBS"
+      ],
+      [
+        "Water",
+        1,
+        "GAL"
+      ],
+      [
+        "Poultry Gravy Mix (as directed)",
+        1,
+        "BAG"
+      ]
+    ]
+  },
+  {
+    "title": "TURKEY TETRAZINI",
+    "recipe_type": "entrees",
+    "calories": 669,
+    "portion_size": "10oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Cook and drain pasta\nBrown MST in a large pan/tilt skillet\nAdd margarine to pan, melt, saute onions and bell peppers.  Add salt.\nIn a bowl mix gravy bag and cold water til smooth, adding gravy slurry to boiling mixture.  Stir until thickened\nAdd cheese sauce, stirring until smooth.  \nHeat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "",
+    "substitutions": "",
+    "ingredients": [
+      [
+        "Spaghetti Noodles",
+        15,
+        "lbs"
+      ],
+      [
+        "Water  ",
+        8,
+        "gal"
+      ],
+      [
+        "Salt",
+        2.5,
+        "tbs"
+      ],
+      [
+        "MST",
+        25,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Peppers (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        5,
+        "oz"
+      ],
+      [
+        "Cheese Sauce",
+        1.25,
+        "bags"
+      ],
+      [
+        "Poultry Gravy Mix",
+        1.25,
+        "bags"
+      ],
+      [
+        "Water (For Gravy Mix)",
+        5,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "MARINARA SAUCE",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "3oz",
+    "min_temp": "165F",
+    "item_type": "Sauce/Gravy",
+    "cooking_notes": "Put all ingredients into pan and simmer.  Stir frequently\nCover and heat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Tomato Sauce",
+        3,
+        "#10 cans"
+      ],
+      [
+        "Italian Seasoning ",
+        2,
+        "tbs"
+      ],
+      [
+        "Garlic Powder ",
+        2,
+        "tbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Bell Peppers (diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Onions (diced)",
+        1,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "MEAT SAUCE",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "6oz",
+    "min_temp": "165F",
+    "item_type": "Sauce/Gravy",
+    "cooking_notes": "In a large pan/tilt skillet, brown off MST, cooking off excess liquid\nPut all ingredients into pan and simmer.  Stir frequently\nCover and heat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Tomato Sauce",
+        3,
+        "#10 cans"
+      ],
+      [
+        "Italian Seasoning ",
+        2,
+        "tbs"
+      ],
+      [
+        "Garlic Powder ",
+        2,
+        "tbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "MST",
+        20,
+        "lbs"
+      ],
+      [
+        "Bell Peppers (diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Onions (diced)",
+        1,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "TURKEY CASSEROLE",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "6oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "LAYER VEGETABLES IN ORDER GIVEN.  SEASON WITH SALT AND PEPPER.  PUT COOKED MST ON TOP OF VEGGIES.  POUR SAUCE OVER ALL\nBAKE AT 350 DEGREES FOR 2 HOURS\n \nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "POTATOES",
+        10,
+        "LBS"
+      ],
+      [
+        "CARROTS DICED",
+        5,
+        "LBS"
+      ],
+      [
+        "CELERY CHOPPED",
+        2.5,
+        "LBS"
+      ],
+      [
+        "ONION DICED",
+        1,
+        "LBS"
+      ],
+      [
+        "GREEN BEANS",
+        3,
+        "#10"
+      ],
+      [
+        "TOMATO SAUCE",
+        1,
+        "CAN"
+      ],
+      [
+        "MST",
+        15,
+        "lbs"
+      ],
+      [
+        "Onions (diced)",
+        1,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "TURKEY & POTATO AUGRATIN",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "10 oz",
+    "min_temp": "165F",
+    "item_type": "Sauce/Gravy",
+    "cooking_notes": "COOK MST WITH ONIONS. LAYER HALF THE POTATOES AND SEASON;  ADD HALF THE ONION AND MST; TOP WITH HALF CHEESE SAUCE;  REPEAT.  \nBAKE AT 350 DEGREES FOR 2 HOURS\t \nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "POTATOES",
+        15,
+        "LBS"
+      ],
+      [
+        "MST",
+        15,
+        "lbs"
+      ],
+      [
+        "Onions (diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "CHEESE SAUCE",
+        2,
+        "BAG"
+      ],
+      [
+        "POULTRY GRAVY",
+        1,
+        "BAG"
+      ],
+      [
+        "ITALIAN SEASONING",
+        3,
+        "CUPS"
+      ]
+    ]
+  },
+  {
+    "title": "SPANISH RICE AND BEANS",
+    "recipe_type": "entrees",
+    "calories": 371,
+    "portion_size": "10 oz",
+    "min_temp": "165F",
+    "item_type": "Sauce/Gravy",
+    "cooking_notes": "SAUTE ONION; ADD SEASONING.  STIR IN RICE.  STIR IN SALSA AND BEANS; COOK TIL RICE AND BEANS ARE TENDER\t\nBAKE AT 350 DEGREES FOR 2 HOURS\t\nGLUTEN RESTRICTED DIET:  No cheese sauce\t\nServe hot or hold above 140 degrees\t",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Margarine",
+        2,
+        "CUP"
+      ],
+      [
+        "Onions (diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "TACO SEASONING",
+        2.5,
+        "CUP"
+      ],
+      [
+        "RICE",
+        2,
+        "GAL"
+      ],
+      [
+        "SALSA",
+        1,
+        "#10"
+      ],
+      [
+        "BEANS",
+        13,
+        "LBS"
+      ],
+      [
+        "CHEESE SAUCE",
+        2,
+        "BAG"
+      ]
+    ]
+  },
+  {
+    "title": "STUFFED PEPPER CASSEROLE",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "6oz",
+    "min_temp": "165F",
+    "item_type": "Sauce/Gravy",
+    "cooking_notes": "SAUTE ONION ADD MST.  DRAIN, ADD PEPPERS ADD SEASONING, TOMATOES, ADD RICE AND WATER; BRING TO A BOIL;  \t\nBAKE AT 350 DEGREES FOR 30 minutes\t\nGLUTEN RESTRICTED:  No cheese\t\nServe hot or hold above 140 degrees\t",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Margarine",
+        2,
+        "CUPS"
+      ],
+      [
+        "MST",
+        15,
+        "LBS"
+      ],
+      [
+        "ONION DICED",
+        1,
+        "LBS"
+      ],
+      [
+        "GREEN PEPPER DICED",
+        0.5,
+        "LBS"
+      ],
+      [
+        "ITALIAN SEASONING",
+        2,
+        "TBS"
+      ],
+      [
+        "WORCESTERSHIRE",
+        2,
+        "TBS"
+      ],
+      [
+        "TOMATOES WHOLE",
+        3,
+        "#10"
+      ],
+      [
+        "RICE",
+        12,
+        "LBS"
+      ],
+      [
+        "CHEESE SAUCE",
+        1,
+        "BAG"
+      ]
+    ]
+  },
+  {
+    "title": "CAJUN CHICKEN PASTA",
+    "recipe_type": "entrees",
+    "calories": 527,
+    "portion_size": "10 oz ",
+    "min_temp": "165F",
+    "item_type": "Sauce/Gravy",
+    "cooking_notes": "COOK PASTA.    SEASON AND COOK ENDS/PIECES; SAUTE ONIONS; ADD TOMATOES AND SEASONING.  MAKE GRAVY PER PACKAGE DIRECTIONS.   ADD  CH EESE SAUCE MIX TO GRAVY; ADD GRAVY TO CHICKEN MIXTURE\nPAN AND BAKE AT 350 DEGREES FOR 30 MINUTES TIL 165 DEGREES \n \nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "RICE",
+        20,
+        "LBS"
+      ],
+      [
+        "ENDS/PIECES",
+        12,
+        "LBS"
+      ],
+      [
+        "BLACKENED SEASONING",
+        0.25,
+        "cup"
+      ],
+      [
+        "MARG",
+        3,
+        "TBS"
+      ],
+      [
+        "ONION",
+        1,
+        "LBS"
+      ],
+      [
+        "TOMATOES WHOLE",
+        2,
+        "#10"
+      ],
+      [
+        "POULTRY GRAVY",
+        1,
+        "BAG"
+      ],
+      [
+        "CHEESE SAUCE",
+        1,
+        "BAG"
+      ]
+    ]
+  },
+  {
+    "title": "CINNCINATI CHILI",
+    "recipe_type": "entrees",
+    "calories": 326,
+    "portion_size": "10 oz",
+    "min_temp": "165F",
+    "item_type": "Sauce/Gravy",
+    "cooking_notes": "Place MST in a large pan, cover with cold water, and bring to a boil, stirring and breaking up with a fork to a fine texture. Slowly boil until meat is thoroughly cooked, about 30 minutes.\nAdd onions, tomato sauce, vinegar, spices, Worcestershire sauce, and chocolate pudding. Stir in seasonings.  Mix well\nBring to a boil, reduce heat to a simmer, and cook, stirring occasionally, for 3 hours. Add water if necessary to prevent chili from burning",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "MST",
+        20,
+        "LBS"
+      ],
+      [
+        "WATER",
+        5,
+        "GAL"
+      ],
+      [
+        "ONION DICED",
+        1,
+        "LBS"
+      ],
+      [
+        "TOMATO SAUCE",
+        1,
+        "#10"
+      ],
+      [
+        "VINEGAR",
+        1.25,
+        "CUP"
+      ],
+      [
+        "GARLIC ",
+        0.5,
+        "CUP"
+      ],
+      [
+        "WORCESTERSHIRE",
+        0.33,
+        "CUP"
+      ],
+      [
+        "CHOCOLATE PUDDING",
+        5,
+        "OZ"
+      ],
+      [
+        "BLACKENED SPICE",2,
+        "CUP"
+      ],
+      [
+        "SALT",
+        1,
+        "TBS"
+      ]
+    ]
+  },
+  {
+    "title": "TURKEY SALAD",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "3 OZ",
+    "min_temp": "40 F",
+    "item_type": "Entrée",
+    "cooking_notes": "Mix all ingredients together.  Chill at 41 degrees or less",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "ENDS/PIECES",
+        15,
+        "LBS"
+      ],
+      [
+        "SALAD DRESSING",
+        2,
+        "QT"
+      ],
+      [
+        "ONION DICED",
+        2,
+        "LBS"
+      ],
+      [
+        "CELERY",
+        2,
+        "LBS"
+      ]
+    ]
+  },
+  {
+    "title": "SWISS STEAK",
+    "recipe_type": "entrees",
+    "calories": 201,
+    "portion_size": "3oz     ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan mix brown gravy per package directions\nAdd seasonings to gravy\nPlace meatloaf patties, onions and peppers  in hotel pan and cover patties with gravy\nBake until patties reach 165 degrees\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Brown Gravy Mix (as directed)",
+        2,
+        "bags"
+      ],
+      [
+        "Italian Seasoning",
+        2,
+        "tbs"
+      ],
+      [
+        "Water (hot)",
+        6,
+        "qts"
+      ],
+      [
+        "Water (cold)",
+        2,
+        "qts"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Meatloaf Patty",
+        100,
+        "patty"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "SALISBURY STEAK",
+    "recipe_type": "entrees",
+    "calories": 187,
+    "portion_size": "3oz   ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan mix brown gravy per package directions\nAdd seasonings to gravy\nPlace meatloaf patties in hotel pan and cover patties with gravy\nBake until patties reach 165 degrees\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Charbroiled Patty",
+    "ingredients": [
+      [
+        "Brown Gravy Mix (as directed)",
+        2,
+        "BAG"
+      ],
+      [
+        "Italian Seasoning",
+        2,
+        "TBS"
+      ],
+      [
+        "Pepper",
+        1,
+        "TBS"
+      ],
+      [
+        "Meatloaf Patty",
+        100,
+        "PATTY"
+      ]
+    ]
+  },
+  {
+    "title": "PEPPER PATTY",
+    "recipe_type": "entrees",
+    "calories": 199,
+    "portion_size": "3oz   ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan mix brown gravy per package directions\nAdd onions and green peppers to gravy\nPlace patties in hotel pan and cover patties with gravy\nBake until patties reach 165 degrees\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "2.5 Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Charbroiled Patty",
+    "ingredients": [
+      [
+        "Brown Gravy Mix (as directed)",
+        2,
+        "BAG"
+      ],
+      [
+        "Green Pepper chopped",
+        0.5,
+        "LBS"
+      ],
+      [
+        "Onion, chopped",
+        1,
+        "LBS"
+      ],
+      [
+        "Meatloaf Patty",
+        100,
+        "PATTY"
+      ]
+    ]
+  },
+  {
+    "title": "HOT DOG",
+    "recipe_type": "entrees",
+    "calories": 300,
+    "portion_size": 2,
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Bring water to a boil.  Add hot dogs.  Bring back to a full boil and heat for 10 minutes\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "HOT DOG",
+        200,
+        "EA"
+      ],
+      [
+        "WATER",
+        12,
+        "GAL"
+      ]
+    ]
+  },
+  {
+    "title": "BREADED CHICKEN PATTY",
+    "recipe_type": "entrees",
+    "calories": 180,
+    "portion_size": "3oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan mix gravy per package directions\nPlace patties in hotel pan and cover patties with gravy\nBake until patties reach 165 degrees\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Charbroiled Patty",
+    "ingredients": [
+      [
+        "PoultryGravy Mix (as directed)",
+        2,
+        "BAG"
+      ],
+      [
+        "Chuckwagon Patty",
+        100,
+        "PATTY"
+      ]
+    ]
+  },
+  {
+    "title": "JAMBALAYA SAUSAGE",
+    "recipe_type": "entrees",
+    "calories": 282,
+    "portion_size": "10oz  ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Saute Onions and Celery until tender\nAdd salt, herbs and spices.  Cook and stir for 2 minutes\nAdd Tomatoes, paste, rice, and water.  Stir well, bring to a simmer, cover and cook for 30 minutes.  Stir occasionally.  Add gravy.\nAdd diced sausage.  When all liquid is absorbed and rice is tender, pan for service",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Turkey Ends & Pieces, Diced Chicken",
+    "ingredients": [
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "Margarine",
+        0.75,
+        "CUP"
+      ],
+      [
+        "Celery (Diced)",
+        1.5,
+        "LBS"
+      ],
+      [
+        "Salt",
+        0.25,
+        "Cup"
+      ],
+      [
+        "Garlic Powder",
+        1.5,
+        "Tbs"
+      ],
+      [
+        "Italian Seasoning",
+        0.25,
+        "cup"
+      ],
+      [
+        "Tomatoes whole",
+        1.5,
+        "#10"
+      ],
+      [
+        "Tomato Paste",
+        1.5,
+        "Qts"
+      ],
+      [
+        "Rice",
+        12,
+        "LBS"
+      ],
+      [
+        "Water (For Gravy Mix)",
+        2.75,
+        "Gal"
+      ]
+    ]
+  },
+  {
+    "title": "BURRITO BOWL",
+    "recipe_type": "entrees",
+    "calories": 502,
+    "portion_size": "3oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan/tilt skillet brown MST to 165 degrees\nAdd onions and taco seasoning, stir well\nMake cheese sauce per package directions.  Add to MST,  Heat to 165 degrees.   \nServe on top of Lettuce\nServe hot or hold above 140 dgrees\nGLUTEN RESTRICTED:  No cheese",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Taco Meat, MSC",
+    "ingredients": [
+      [
+        "MST",
+        20,
+        "lbs"
+      ],
+      [
+        "Taco Seasoning",
+        16,
+        "oz"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Cheese sauce mix",
+        1,
+        "bag"
+      ],
+      [
+        "lettuce shredded",
+        1,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "CHICKEN FRIED STEAK",
+    "recipe_type": "entrees",
+    "calories": 220,
+    "portion_size": "3oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan/tilt skillet brown MST to 165 degrees\nAdd onions and taco seasoning, stir well\nMake cheese sauce per package directions.  Add to MST,  Heat to 165 degrees.   \nServe on top of Lettuce\nServe hot or hold above 140 dgrees\nGLUTEN RESTRICTED:  No cheese",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Charbroiled Patty",
+    "ingredients": [
+      [
+        "PEPPER Gravy Mix (as directed)",
+        2,
+        "BAG"
+      ],
+      [
+        "Chuckwagon Patty",
+        100,
+        "PATTY"
+      ]
+    ]
+  },
+  {
+    "title": "BEEF PATTY",
+    "recipe_type": "entrees",
+    "calories": 160,
+    "portion_size": "3oz  ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Place patties in hotel pan. \nBake until patties reach 165 degrees\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Charbroiled Patty",
+    "ingredients": [
+      [
+        "Charbroil patty",
+        100,
+        "PATTY"
+      ]
+    ]
+  },
+  {
+    "title": "BEEF STEW",
+    "recipe_type": "entrees",
+    "calories": 415,
+    "portion_size": "10 OZ LADLE  ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "1.  MELT MARGARINE IN KETTLE.  Add celery and onions.  Saute until tender\n2.  Add seasoning.  Saute one minute\n3.  Combine water and  gravy mix.  Add to kettle. Simmer and blend til well mixed.  Add fully cooked MST.  Return to simmer for 15 minutes.\n4.  Thaw vegetables in warm water.  Drain well.  Add to meat mixture and return to simmer.\n5.  Pan and Serve",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Charbroiled Patty",
+    "ingredients": [
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "MARGARINE",
+        1.5,
+        "LBS"
+      ],
+      [
+        "CELERY CHOPPED",
+        1.25,
+        "LBS"
+      ],
+      [
+        "ITALIAN SEASONING",
+        0.3,
+        "CUP"
+      ],
+      [
+        "MST",
+        13,
+        "LBS"
+      ],
+      [
+        "BROWN GRAVY",
+        0.5,
+        "bag"
+      ],
+      [
+        "WATER",
+        2,
+        "QT"
+      ]
+    ]
+  },
+  {
+    "title": "HAMBURGER CASSEROLE",
+    "recipe_type": "entrees",
+    "calories": 620,
+    "portion_size": "10 OZ ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "1.  BROWN MST TIL INTERNAL TEMPERATURE REACHES 165 DEGREES F. FOR 15 SECONDS.  DRAIN OFF EXCESS FAT.\n2.  ADD ONIONS, COOK UNTIL TENDER\n3.  ADD SEASONINGS AND TOMATOES.  SIMMER 30 MINUTES OR UNTIL THICK\n4.  SCALE MEAT MIXTURE INTO 12X20X2 INCH PANS; 9 LBS PER PAN\n5.  PREPARE CHEESE SAUCE.  POUR OVER EACH PAN.\n5.  PREPARE BISCUIT MIX ACCORDING TO DIRECTIONS.   \n6.  USING A #20 DIPPER, PLACE BISCUIT TOPPING 4X6 OVER MEAT MIXTURE JUST BEORE BAKING.\n7.  BAKE AT 400 DEGREES f. FOR 30-35 MINUTES.  Allow to rest for 5 minutes.  Cut into 4x6 pieces.",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Charbroiled Patty",
+    "ingredients": [
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "TACO SEASONING",
+        0.5,
+        "CUP"
+      ],
+      [
+        "SYRUP",
+        0.66,
+        "CUP"
+      ],
+      [
+        "TOMATO WHOLE",
+        2.5,
+        "#10"
+      ],
+      [
+        "MST",
+        15,
+        "LBS"
+      ],
+      [
+        "BROWN GRAVY",
+        1.25,
+        "bag"
+      ],
+      [
+        "WATER",
+        2.5,
+        "QT"
+      ],
+      [
+        "BISCUIT MIX",
+        4.5,
+        "LBS"
+      ]
+    ]
+  },
+  {
+    "title": "POLISH SAUSAGE",
+    "recipe_type": "entrees",
+    "calories": 300,
+    "portion_size": 2,
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Bring water to a boil.  Add Polish Sausage.  Bring back to a full boil and heat for 10 minutes\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "HOT DOG",
+        200,
+        "EA"
+      ],
+      [
+        "WATER",
+        12,
+        "GAL"
+      ]
+    ]
+  },
+  {
+    "title": "CREAMED CHICKEN",
+    "recipe_type": "entrees",
+    "calories": 210,
+    "portion_size": "10oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan/tilt skillet, melt margarine; saute onions\nAdd water to the vegetables, then chicken, salt and pepper\nBring to a boil\nIn a bowl mix gravy with cold water until smooth\nAdd gravy slurry to boiling mixture, stirring until thickened\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Turkey Ends & Pieces, Diced Chicken",
+    "ingredients": [
+      [
+        "ENDS/PIECES",
+        15,
+        "LBS"
+      ],
+      [
+        "POULTRY GRAVY",
+        2,
+        "BAG"
+      ],
+      [
+        "Chicken Strip/Chunks",
+        25,
+        "lbs"
+      ],
+      [
+        "Water  ",
+        1.5,
+        "gal"
+      ],
+      [
+        "Pepper",
+        2,
+        "tbs"
+      ],
+      [
+        "Salt",
+        3,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        8,
+        "oz"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Poultry Gravy Mix",
+        1,
+        "bags"
+      ],
+      [
+        "Water (For Gravy Mix)",
+        1,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "MEATLOAF - GRAVY",
+    "recipe_type": "entrees",
+    "calories": "",
+    "portion_size": "3oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Bring hot water to a boil in pan.\nIn a bowl mix gravy bag and cold water til smooth, adding gravy slurry to boiling mixture.  Stir until thickened\nPan up dinner loaf patties and cook in oven until temp reaches 165 degrees\nPour gravy over dinner loaf patties and put back into oven, heat until 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Dinner Loaf",
+        100,
+        "ea"
+      ],
+      [
+        "Brown Gravy Mix",
+        1,
+        "bag"
+      ],
+      [
+        "Water  (Cold) ",
+        1,
+        "qts"
+      ],
+      [
+        "Water (Hot)",
+        3,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "MEATLOAF - BBQ",
+    "recipe_type": "entrees",
+    "calories": "197 Calories",
+    "portion_size": "3oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Bring hot water to a boil in pan.\nIn a bowl mix gravy bag and cold water til smooth, adding gravy slurry to boiling mixture.  Stir until thickened\nPan up dinner loaf patties and cook in oven until temp reaches 165 degrees\nPour gravy over dinner loaf patties and put back into oven, heat until 165 degrees\nServe hot or hold above 140 degrees\nBLAND DIET:  No BBQ saucesp",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Dinner Loaf",
+        100,
+        "ea"
+      ],
+      [
+        "BBQ Sauce",
+        3,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "GOULASH",
+    "recipe_type": "entrees",
+    "calories": 408,
+    "portion_size": "10 OZ",
+    "min_temp": "165F      ",
+    "item_type": "Protein",
+    "cooking_notes": "COOK MACARONI.\nDRAIN WATER AND COOL MARCARONI WITH COLD RUNNING WATER..\nDO NOT OVERCOOK.\nBROWN MST AND ONIONS.  ADD MACARONI, TOMATOES. HEAT TO 165 DEGREES\nPREPARE GRAVY MIX PER PACKAGE DIRECTIONS.  ADD CHEESE SAUCE. \nADD GRAVY TO MST MIXTURE.\nBRING TO A HARD BOIL.\nHOLD AND SERVE AT 140 DEGREES\n\n2. HEAT AND STIR UNTIL MEAT IS BROWN AND REACHES AN INTERNALTEMPERATURE OF 165 DEGREES FOR 15 SECONDS..\n    PLACE MEAT AND ONIONS IN KETTLE.\n3.  ADD WATER,TOMATOES, GRAVY MIX, AND SEASONINGS.  WHIP UNTIL FULLY INCORPORATED.  RETURN TO A SIMMER\n4.  ADD MACARONI AND FOLD TOGETHER.  HEAT ENTIRE MIXTURE TO 165 F.  TASTE.  ADD SALT IF NECESSARY.  PAN AND SERVE.",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "MACARONI",
+        10,
+        "LBS"
+      ],
+      [
+        "WATER (PASTA)",
+        10,
+        "GAL"
+      ],
+      [
+        "MST",
+        12,
+        "LBS"
+      ],
+      [
+        "BROWN GRAVY",
+        0.5,
+        "bag"
+      ],
+      [
+        "TOMATO WHOLE",
+        1,
+        "#10"
+      ],
+      [
+        "Cheese Sauce Mix",
+        2,
+        "bag"
+      ]
+    ]
+  },
+  {
+    "title": "CHICKEN CORNBREAD CASSEROLE",
+    "recipe_type": "entrees",
+    "calories": 343,
+    "portion_size": "10oz ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "TOAST CUBED CORNBREAD.\nSAUTE VEGGIES. COOL.   STIR IN CORNBREAD, END/PIECES, AND SEASONING\nMAKE GRAVY PER PACKAGE DIRECTIONS.  ADD TO CHICKEN MIXTURE\nBRING TO A BOIL. \nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Turkey Ends & Pieces, Diced Chicken",
+    "ingredients": [
+      [
+        "Cornbread cubed",
+        5,
+        "GAL"
+      ],
+      [
+        "Margarine",
+        1,
+        "LBS"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "Turkey Ends/Pieces",
+        10,
+        "LBS"
+      ],
+      [
+        "Celery",
+        0.5,
+        "LBS"
+      ],
+      [
+        "Poultry Seasoning",
+        0.5,
+        "CUP"
+      ],
+      [
+        "Poultry Gravy Mix",
+        1,
+        "bags"
+      ],
+      [
+        "Water (For Gravy Mix)",
+        1,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "BEAN STEW",
+    "recipe_type": "entrees",
+    "calories": 346,
+    "portion_size": "10 OZ ",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "PREPARE BEANS PER PACKAGE.  SAUTE ONIONS, ADD SEASONING  COMBINE BEANS AND MST.  ADD REMAINING INGREDIENTS\nRinse and soak beans overnight in large pan/pot or tub\n2 hrs before service start cooking beans, until tender.\nAdd MST and cook until reaches 165 degrees\nIn a separate pan, saute onions and bell peppers\nAdd onions, peppers, tomatoes and blackened seasoning to beans.\nSimmer for 10 minutes\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:  MSC, Ground Chicken",
+    "ingredients": [
+      [
+        "MST",
+        10,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Pinto Beans",
+        12,
+        "lbs"
+      ],
+      [
+        "Salt",
+        1,
+        "TBS"
+      ],
+      [
+        "TOMATOES WHOLE",
+        1,
+        "#10"
+      ],
+      [
+        "TOMATO PASTE",
+        2,
+        "CUP"
+      ],
+      [
+        "TACO SEASONING",
+        0.5,
+        "CUP"
+      ],
+      [
+        "POULTRY GRAVY",
+        1,
+        "bag"
+      ],
+      [
+        "WATER",
+        1,
+        "QT"
+      ]
+    ]
+  },
+  {
+    "title": "TURKEY RICE CASSEROLE",
+    "recipe_type": "entrees",
+    "calories": 391,
+    "portion_size": "10 OZ ",
+    "min_temp": "165F",
+    "item_type": "Sauce/Gravy",
+    "cooking_notes": "SAUTE ONION; ADD SEASONING.  STIR IN RICE AND GRAVY.  STIR IN TURKEY; COOK TIL TENDER\nBAKE AT 350 DEGREES FOR 2 HOURS\n \nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Margarine",
+        1,
+        "CUP"
+      ],
+      [
+        "Onions (diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "POULTRY GRAVY",
+        2,
+        "BAG"
+      ],
+      [
+        "RICE",
+        2,
+        "GAL"
+      ],
+      [
+        "MST",
+        12,
+        "LBS"
+      ]
+    ]
+  },
+  {
+    "title": "TURKEY ITALIAN",
+    "recipe_type": "entrees",
+    "calories": 180,
+    "portion_size": "4 OZ      ",
+    "min_temp": "165F",
+    "item_type": "Sauce/Gravy",
+    "cooking_notes": "MAKE GRAVY PER PACKAGE DIRECTIONS.  ADD SEASONING.  ADD ENDS/PIECES.\nBAKE AT 350 DEGREES FOR 2 HOURS\n \nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "ITALIAN SEASONING",
+        1,
+        "CUP"
+      ],
+      [
+        "POULTRY GRAVY",
+        2,
+        "BAG"
+      ],
+      [
+        "TURKEY ENDS/PIECES",
+        20,
+        "LBS"
+      ]
+    ]
+  },
+  {
+    "title": "TAMALE PIE",
+    "recipe_type": "entrees",
+    "calories": 744,
+    "portion_size": "10 OZ ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Inspect beans for rocks, sticks prior to rinse.  Rinse and soak beans overnight in large pan/pot or tub\n2 hrs before service start cooking beans, until tender.\nDrain Water\nAdd onions, pepper and taco seasoning to beans, simmer for 20 minutes (DON’T BURN BEANS).  Use a masher/mixer to mash the beans\nIn another pan, partially brown meat, then add taco seasoning and diced onions. Heat to 165 degrees\nMix meat and beans together and heat to 165 degrees.  Add tomatoes, corn.  Pour into steamtable pan\nMake cheese sauce per package directions.  Pour over meat mixture\nMake cornbread per package directions.  Pour batter over cheese.\nBake at 375 degrees for 40 minutes until top is browned. Serve hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: MSC, Chicken Sliced/Diced, Turkey Ends and Pieces,",
+    "ingredients": [
+      [
+        "Pinto Beans",
+        5,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Taco Seasoning",
+        1,
+        "cup"
+      ],
+      [
+        "Water",
+        1.5,
+        "gal"
+      ],
+      [
+        "Tomatoes whole",
+        1,
+        "#10"
+      ],
+      [
+        "MST",
+        15,
+        "lbs"
+      ],
+      [
+        "Corn",
+        10,
+        "lbs"
+      ],
+      [
+        "Cheese Sauce mix",
+        2,
+        "bag"
+      ],
+      [
+        "Cornbread mix",
+        15,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "SWEDISH MEATBALLS",
+    "recipe_type": "entrees",
+    "calories": 205,
+    "portion_size": "3oz (6 meatballs per serving)  ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Bring hot water to a boil in pan.\nIn a bowl mix gravy bag and cold water til smooth, adding gravy slurry to boiling mixture.  Stir until thickened\nPan up meatballs and cook in oven until temp reaches 165 degrees\nPour gravy over meatballs and put back into oven, heat until 165 degrees\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Meatballs",
+        600,
+        "ea"
+      ],
+      [
+        "Brown Gravy Mix",
+        1,
+        "bag"
+      ],
+      [
+        "Water  (Cold) ",
+        1,
+        "qts"
+      ],
+      [
+        "Water (Hot)",
+        3,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "TURKEY TACOS",
+    "recipe_type": "entrees",
+    "calories": 313,
+    "portion_size": "3oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "In a large pan/tilt skillet brown MST to 165 degrees\nAdd onions and taco seasoning, stir well\nMake cheese sauce per package direction.  Pour over turkey mixture.  \nServe hot or hold above 140 dgrees\nGLUTEN RESTRICTED:    No cheese",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Taco Meat, MSC",
+    "ingredients": [
+      [
+        "MST",
+        20,
+        "lbs"
+      ],
+      [
+        "Taco Seasoning",
+        16,
+        "oz"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "CHEESE SAUCE",
+        2,
+        "BAG"
+      ]
+    ]
+  },
+  {
+    "title": "BBQ  BEEF PATTY",
+    "recipe_type": "entrees",
+    "calories": 160,
+    "portion_size": "3oz",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "Place patties in hotel pan and cover patties with sauce\nBake until patties reach 165 degrees\nServe hot or hold above 140 dgrees\nBLAND DIET:  No BBQ sauce",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Charbroiled Patty",
+    "ingredients": [
+      [
+        "Charbroil patty",
+        100,
+        "PATTY"
+      ],
+      [
+        "BBQ Sauce",
+        3,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "BEEF A RONI",
+    "recipe_type": "entrees",
+    "calories": 443,
+    "portion_size": "10 OZ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "1.  PLACE 1 GALLON OF WATER FOR EACH POUND OF MARCARONI AND 1 OZ OF SALT PER GALLON OF WATER.  BRING TO A HARD BOIL.  ADD MARCARONI.  STIR ONCE EVERY MINUTE UNTIL WATER RETURNS TO  A BOIL.  CONTINUE COOKING AND STIRRING OCCASIONALLY UNTIL MACARONI IS TENDER.  DO NOT OVERCOOK.  DRAIN WATER AND COOL MARCARONI WITH COLD RUNNING WATER.\n2.  PLACE MEAT AND ONIONS IN KETTLE.  HEAT AND STIR UNTIL MEAT IS BROWN AND REACHES AN INTERNAL TEMPERATURE OF 165 DEGREES FOR 15 SECONDS.\n3.  ADD WATER, TOMATOES, GRAVY MIX AND SEASONINGS.  WHIP UNTIL FULLY INCORPORATED.  RETURN TO A SIMMER\n4.  ADD MACARONI AND FOLD TOGETHER.  HEAT ENTIRE MIXTURE TO 165 F.  TASTE.  ADD SALT IF NECESSARY.  PAN AND SERVE.",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: ends and pieces",
+    "ingredients": [
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "MACARONI",
+        12,
+        "LBS"
+      ],
+      [
+        "WATER (PASTA)",
+        12,
+        "GAL"
+      ],
+      [
+        "MARGARINE",
+        0.5,
+        "LBS"
+      ],
+      [
+        "MST",
+        15,
+        "LBS"
+      ],
+      [
+        "WATER SAUCE",
+        1.25,
+        "GAL"
+      ],
+      [
+        "BROWN GRAVY",
+        0.5,
+        "bag"
+      ],
+      [
+        "TOMATO SAUCE",
+        1,
+        "#10"
+      ],
+      [
+        "SALT",
+        0.25,
+        "CUP"
+      ],
+      [
+        "PEPPER",
+        1,
+        "TBS"
+      ],
+      [
+        "SYRUP",
+        0.5,
+        "CUP"
+      ]
+    ]
+  },
+  {
+    "title": "CHOP SUEY",
+    "recipe_type": "entrees",
+    "calories": 322,
+    "portion_size": "10 OZ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "PLACE MEAT AND ONIONS IN KETTLE.  HEAT AND STIR UNTIL MEAT IS BROWN AND REACHES AN INTERNALTEMPERATURE OF 165 DEGREES FOR 15 SECONDS.\nADD VEGETABLES,  GRAVY MIX, SOY SAUCE, AND SEASONINGS.  WHIP UNTIL FULLY INCORPORATED.  RETURN TO A SIMMER\nHEAT ENTIRE MIXTURE TO 165 F.  TASTE.  ADD SALT IF NECESSARY.  PAN AND SERVE.","critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: ends and pieces",
+    "ingredients": [
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "SOY SAUCE",
+        3.5,
+        "CUP"
+      ],
+      [
+        "CELERY CHOPPED",
+        14,
+        "LBS"
+      ],
+      [
+        "MST",
+        21,
+        "LBS"
+      ],
+      [
+        "WATER SAUCE",
+        3.5,
+        "GAL"
+      ],
+      [
+        "POULTRY GRAVY",
+        1,
+        "bag"
+      ],
+      [
+        "GARLIC",
+        1,
+        "TBS"
+      ]
+    ]
+  },
+  {
+    "title": "CHICKEN DUMPLINGS",
+    "recipe_type": "entrees",
+    "calories": 512,
+    "portion_size": "10 OZ",
+    "min_temp": "165F      ",
+    "item_type": "Protein",
+    "cooking_notes": "PLACE MEAT, CELERY, AND ONIONS IN KETTLE.  HEAT AND STIR UNTIL MEAT IS BROWN AND REACHES AN INTERNAL TEMPERATURE OF 165 DEGREES FOR 15 SECONDS.\nADD WATER AND GRAVY MIX AND SEASONINGS.  WHIP UNTIL FULLY INCORPORATED.  RETURN TO A SIMMER\nADD PEAS AND FOLD TOGETHER.  HEAT ENTIRE MIXTURE TO 165 F.  TASTE.  ADD SALT IF NECESSARY.  PAN.\nMAKE BISCUIT PER PACKAGE DIRECTIONS.  SPOON ON TOP OF MIXTURE BAKE AT 350 DEGREES FOR 20 MINUTS.  SERVE","critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: ends and pieces",
+    "ingredients": [
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "CELERY CHOPPED",
+        0.5,
+        "LBS"
+      ],
+      [
+        "MST",
+        15,
+        "LBS"
+      ],
+      [
+        "POULTRY GRAVY",
+        1,
+        "bag"
+      ],
+      [
+        "MARGARINE",
+        0.5,
+        "LBS"
+      ],
+      [
+        "ITALIAN SEASONING",
+        2,
+        "TBS"
+      ],
+      [
+        "PEAS",
+        3,
+        "LBS"
+      ],
+      [
+        "Biscuit Mix",
+        10,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "ITALIAN CHICKEN SAUSAGE",
+    "recipe_type": "entrees",
+    "calories": 455,
+    "portion_size": "10 OZ",
+    "min_temp": "165F",
+    "item_type": "Protein",
+    "cooking_notes": "PLACE MEAT AND ONIONS, GREEN PEPPERS IN KETTLE.  HEAT AND STIR UNTIL MEAT IS BROWN AND REACHES AN INTERNALTEMPERATURE OF 165 DEGREES FOR 15 SECONDS.\nMAKE GRAVY MIX PER PACKAGE DIRECTIONS.  ADD SYRUP, SEASONING.  ADD TO MEAT MIXTURE\nSTIR WELL.\nHEAT ENTIRE MIXTURE TO 165 F.  TASTE.  ADD SALT IF NECESSARY.  PAN AND SERVE.",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: MST",
+    "ingredients": [
+      [
+        "Onions (Diced)",
+        1,
+        "LBS"
+      ],
+      [
+        "SAUSAGE LINKS",
+        5,
+        "LBS"
+      ],
+      [
+        "ENDS/PIECES",
+        10,
+        "LBS"
+      ],
+      [
+        "POULTRY GRAVY",
+        1,
+        "bag"
+      ],
+      [
+        "MARGARINE",
+        0.5,
+        "LBS"
+      ],
+      [
+        "ITALIAN SEASONING",
+        2,
+        "TBS"
+      ],
+      [
+        "GREEN PEPPER",
+        3,
+        "lbs"
+      ],
+      [
+        "SYRUP",
+        0.75,
+        "cup"
+      ]
+    ]
+  },
+  {
+    "title": "CARROTS (DICED)",
+    "recipe_type": "veggies",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Vegetable",
+    "cooking_notes": "Put carrots, water and remaining ingredients into a pan\nCover and heat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Sliced Carrots, Whipped Margarine",
+    "ingredients": [
+      [
+        "Carrots (Diced)",
+        15,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        1,
+        "cups"
+      ],
+      [
+        "Water ",
+        1,
+        "qts"
+      ],
+      [
+        "Syrup",
+        1,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "BROCCOLI",
+    "recipe_type": "veggies",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Vegetable",
+    "cooking_notes": "In large pan,  combine all ingredients\nCover and heat to 165 degrees, stirring occasionally\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Broccoli",
+        18,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        8,
+        "oz"
+      ],
+      [
+        "Water",
+        1,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "COLESLAW",
+    "recipe_type": "veggies",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "MAX TEMP : 40F",
+    "item_type": "Vegetable ",
+    "cooking_notes": "In large pan,  combine all ingredients\nPrepare 2 hours prior to serving and refrigerate\nServe cold, hold at 40 degree or below",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Cabbage with Separate Color",
+        2,
+        "bags"
+      ],
+      [
+        "Mayo/Salad Dressing",
+        5,
+        "cups"
+      ],
+      [
+        "Vinegar",
+        1,
+        "cups"
+      ],
+      [
+        "SYRUP",
+        0.25,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "COLESLAW - SWEET & SOUR",
+    "recipe_type": "veggies",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "MAX Temp: 40F",
+    "item_type": "Vegetable",
+    "cooking_notes": "In large pan,  combine all ingredients\nPrepare 2 hours prior to serving and refrigerate\nServe cold, hold at 40 degree or below",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Cabbage with Separate Color",
+        2,
+        "bags"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Onion (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "white Sugar USE SYRUP",
+        0.75,
+        "cups"
+      ],
+      [
+        "Vinegar",
+        2,
+        "cups"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ]
+    ]
+  },
+  {
+    "title": "CORN",
+    "recipe_type": "veggies",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Vegetable",
+    "cooking_notes": "Put corn, water and remaining ingredients into a pan\nCover and heat to 165 degrees\nServe hot or hold above 140 degrees\nMECH SOFT DIET:  Blend corn til creamed.",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Corn",
+        18,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        1,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "GREEN BEANS",
+    "recipe_type": "veggies",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Vegetable",
+    "cooking_notes": "Put green beans, water and remaining ingredients into a pan\nCover and heat to 165 degrees\nServe hot or hold above 140 degrees\nMECH SOFT DIET:  Chop beans into 1/4 inch pieces.",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "GREEN BEANS",
+        3,
+        "#10"
+      ],
+      [
+        "Green Beans",
+        15,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        1,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "MIXED VEGETABLES",
+    "recipe_type": "veggies",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Vegetable",
+    "cooking_notes": "Put mixed vegetables, water and remaining ingredients into a pan\nCover and heat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "MIXED VEGETABLES",
+        3.75,
+        "lbs"
+      ],
+      [
+        "Mixed Vegetables",
+        15,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Water ",
+        1,
+        "qts"
+      ],
+      [
+        "Margarine",
+        8,
+        "oz"
+      ]
+    ]
+  },
+  {
+    "title": "PEAS",
+    "recipe_type": "veggies",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Vegetable",
+    "cooking_notes": "Put peas, water and remaining ingredients into a pan\nCover and heat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "PEAS",
+        3,
+        "LBS"
+      ],
+      [
+        "Peas",
+        18,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        1,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "GLAZED CARROTS (DICED)",
+    "recipe_type": "veggies",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Vegetable",
+    "cooking_notes": "Put carrots, water and remaining ingredients into a pan\nCover and heat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Sliced Carrots, Whipped Margarine",
+    "ingredients": [
+      [
+        "Carrots (Diced)",
+        15,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        1,
+        "cups"
+      ],
+      [
+        "Water ",
+        1,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "BAKED BEANS",
+    "recipe_type": "starch",
+    "calories": 144,
+    "portion_size": "4oz     ",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "Inspect beans for rocks, sticks prior to rinse.\nRinse and soak beans overnight in large pan/pot or tub\n2 hrs before service start cooking beans, until tender.\nDrain Water\nAdd all remaining ingredients, stir occasionally on low heat\nHeat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Ketchup",
+        2.5,
+        "cups"
+      ],
+      [
+        "Vinegar",
+        3.5,
+        "oz"
+      ],
+      [
+        "SYRUP",
+        1,
+        "cups"
+      ],
+      [
+        "Yellow Mustard",
+        2,
+        "oz"
+      ],
+      [
+        "Water  ",
+        1.5,
+        "gal"
+      ],
+      [
+        "Pinto Beans",
+        6,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "MAC & CHEESE",
+    "recipe_type": "starch",
+    "calories": 334,
+    "portion_size": "8oz  ",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a separate pot heat water to a boil.  Mix 1 quart cold water per bag of gravy mix.  Add to boiling water.  Add bags of cheese sauce.  Stir til smooth.\nAdd salt and pepper and mix sauce with cooked macaroni\n Serve hot; hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Macaroni (Cooked, Drained)",
+        10,
+        "LBS"
+      ],
+      [
+        "Cheese Sauce",
+        2,
+        "BAG "
+      ],
+      [
+        "Peppered Gravy Mix",
+        1,
+        "BAG "
+      ],
+      [
+        "Water",
+        6,
+        "QT"
+      ],
+      [
+        "Pepper ",
+        1,
+        "TBS"
+      ],
+      [
+        "Salt",
+        2,
+        "TBS"
+      ]
+    ]
+  },
+  {
+    "title": "MASHED POTATOES (4OZ)",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In large pot/tilt skillet, add 1/2 cold water and slowly mix in 1/2 of potato flakes\nAdd remaining water and heat to boil.  \nStir in salt, pepper and margarine. \nSlowly stir in remaining potatoes\nHeat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Potato Flakes (Dehydrated)",
+        5,
+        "lbs"
+      ],
+      [
+        "Water  ",
+        2.5,
+        "gal"
+      ],
+      [
+        "Pepper",
+        2,
+        "tsp"
+      ],
+      [
+        "Salt",
+        1,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        1,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "MASHED POTATOES (8OZ)",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In large pot/tilt skillet, add 1/2 cold water and slowly mix in 1/2 of potato flakes\nAdd remaining water and heat to boil.  \nStir in salt, pepper and margarine. \nSlowly stir in remaining potatoes\nHeat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Potato Flakes (Dehydrated)",
+        10,
+        "LBS"
+      ],
+      [
+        "Water  ",
+        5,
+        "GAL"
+      ],
+      [
+        "Pepper",
+        1,
+        "TBS"
+      ],
+      [
+        "Salt",
+        2,
+        "TBS"
+      ],
+      [
+        "Margarine",
+        1,
+        "LBS"
+      ]
+    ]
+  },
+  {
+    "title": "GARLIC MASHED POTATOES",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In large pot/tilt skillet, add 1/2 cold water and slowly mix in 1/2 of potato flakes\nAdd remaining water and heat to boil.  \nStir in salt, pepper, garlic and margarine. \nSlowly stir in remaining potatoes\nHeat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Potato Flakes (Dehydrated)",
+        10,
+        "lbs"
+      ],
+      [
+        "Water  ",
+        5,
+        "gal"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Margarine",
+        1,
+        "lbs"
+      ],
+      [
+        "Granulated Garlic",
+        2,
+        "tbs"
+      ]
+    ]
+  },
+  {
+    "title": "CAJUN CHEESE GRITS",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "Bring water to boil on large pot/tilt skillet\nAdd salt , pepper and margarine\nSlowly add grits, while constantly stirring to avoid lumps\nBring back to a boil, reduce heat.\nStir in cheese sauce and cajun seasoning\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Grits",
+        5,
+        "qts"
+      ],
+      [
+        "Water",
+        5,
+        "gal"
+      ],
+      [
+        "Margarine",
+        3,
+        "oz"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Blackened Spice (Cajun)",
+        1,
+        "cup"
+      ],
+      [
+        "Cheese Sauce",
+        1,
+        "Bag"
+      ]
+    ]
+  },
+  {
+    "title": "RANCHERO BEANS",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "Inspect beans for rocks, sticks prior to rinse.\nRinse and soak beans overnight in large pan/pot or tub\n2 hrs before service start cooking beans, until tender.\nIn a separate pan, use oil to saute onions and bell peppers\nAdd onions, peppers, and taco seasoning to beans.\nSimmer for 10 minutes or until temp reaches 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Pinto Beans",
+        12,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Peppers (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Taco Seasoning",
+        1,
+        "cup"
+      ],
+      [
+        "Water",
+        3,
+        "gal"
+      ]
+    ]
+  },
+  {
+    "title": "REFRIED BEANS",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "Inspect beans for rocks, sticks prior to rinse.\nRinse and soak beans overnight in large pan/pot or tub\n2 hrs before service start cooking beans, until tender.\nIn a separate pan, use oil to saute onions and bell peppers\nAdd onions, peppers,  and taco seasoning to beans.\nSimmer for 10 minutes or until temp reaches 165 degrees\nPut in mixer to mash beans up\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Pinto Beans",
+        12,
+        "lbs"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Peppers (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Taco Seasoning",
+        1,
+        "cup"
+      ],
+      [
+        "Water",
+        3,
+        "gal"
+      ]
+    ]
+  },
+  {
+    "title": "CHEESY POTATOES",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pan, boil water and pour over potatoes\nLet stand for at least 15 minutes, the longer time allowed to stand the better the yield\nDrain off excess water\nIn a pan, gently mix water, onions and cheese sauce\nPour cheese sauce over potatoes and salt/pepper and gently fold into mix\nBake at 350 degrees for at least 30 minutes, or until reached 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Potato Shredded (Dehydrated)",
+        15,
+        "lbs"
+      ],
+      [
+        "Water  ",
+        10,
+        "gal"
+      ],
+      [
+        "Pepper",
+        4,
+        "tbs"
+      ],
+      [
+        "Salt",
+        4,
+        "tbs"
+      ],
+      [
+        "Onion (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Cheese Sauce",
+        1,
+        "bag"
+      ],
+      [
+        "Water (For Cheese Sauce)",
+        1.5,
+        "qts"
+      ]
+    ]
+  },
+  {
+    "title": "FRIED POTATOES",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "Cut potato into bitesize pieces.  \nIn a large pan, boil water and add potatoes\nIn a sheet pan, coat margarine, then scatter on sheet with onions, salt and pepper.  Top with oil\nBake at 450 degrees for at least 10 minutes, or until reached 165 degrees\nFlip potatoes gently, cook for additional 5 minutes\nServe hot or hold above 140 degrees \n\nPREP VARIATION:\nSoak potatoes in the refridgerator overnight, drain excess water and cook in oven",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "POTATOES, FRESH",
+        12,
+        "lbs"
+      ],
+      [
+        "Water  ",
+        6,
+        "gal"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Salt",
+        1,
+        "tbs"
+      ],
+      [
+        "Onion (Diced)",
+        1,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "GERMAN POTATO SALAD ",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pan, use oil to saute peppers and onions\nAdd in remaining ingredients except for potatoes\nMix well and pour over warm potatoes and stir\nHeat to 165 degrees\nServe hot or hold above 140 degrees\n\n\nSERVING VARIATION:\nCan be served chilled, Follow proper HACCP cooling procedures. Serve cold or hold below 40 degrees.",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Potatoes (Diced, Cooked & Drained)",
+        45,
+        "lbs"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Onion (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "White Vinegar",
+        3,
+        "cups"
+      ],
+      [
+        "Syrup",
+        0.75,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "CHEESE GRITS",
+    "recipe_type": "starch",
+    "calories": 326,
+    "portion_size": "8oz     ",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "Bring water to boil on large pot/tilt skillet\nAdd salt , pepper and margarine\nSlowly add grits, while constantly stirring to avoid lumps\nBring back to a boil, reduce heat.\nStir in cheese sauce\nServe hot or hold above 140 dgrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Grits",
+        5,
+        "qts"
+      ],
+      [
+        "Water",
+        5,
+        "gal"
+      ],
+      [
+        "Margarine",
+        3,
+        "oz"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Cheese Sauce",
+        1,
+        "BAG"
+      ]
+    ]
+  },
+  {
+    "title": "HASHBROWNS",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pan, boil water and pour over potatoes\nLet stand for at least 15 minutes, the longer time allowed to stand the better the yield\nDrain off excess water\nIn a sheet pan, coat margarine, then scatter on sheet salt and pepper.  Top with oil\nBake at 450 degrees for at least 10 minutes, or until reached 165 degrees\nFlip potatoes gently, cook for additional 5 minutes\nServe hot or hold above 140 degrees ",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Shredded Potatoes (dehydrated)",
+        10,
+        "lbs"
+      ],
+      [
+        "Water  ",
+        6,
+        "gal"
+      ],
+      [
+        "Pepper",
+        2,
+        "tbs"
+      ],
+      [
+        "Salt",
+        4,
+        "tbs"
+      ]
+    ]
+  },
+  {
+    "title": "ELBOW NOODLES",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165 degrees",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pan, combine all ingredients and heat to 165 and noodles are tender \nServe hot or hold at 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Noodles (cooked/drained/cooled)",
+        13,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ]
+    ]
+  },
+  {
+    "title": "SPAGHETTI NOODLES",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165 degrees",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pan, combine all ingredients and heat to 165 and noodles are tender \nServe hot or hold at 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Noodles (cooked/drained/cooled)",
+        13,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ]
+    ]
+  },
+  {
+    "title": "ITALIAN PASTA SALAD",
+    "recipe_type": "starch",
+    "calories": 168,
+    "portion_size": "8oz",
+    "min_temp": "40 degrees",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pan, combine all ingredients and refrigerate\nServe cold or hold at 40 degrees or less",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Macaroni (cooked/drained/cooled)",
+        20,
+        "lbs"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Onion (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Pepper",
+        1,
+        "tbs"
+      ],
+      [
+        "Italian Dressing",
+        6,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "POTATOES OBRIEN",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pan, boil water and pour over potatoes\nLet stand for at least 15 minutes, the longer time allowed to stand the better the yield\nDrain off excess water\nCoat sheet pans with margarine then scatter potatoes, peppers and onions, salt and pepper.  Top with oil.\nBake in oven at 450 degrees for 10 minutes, flip potatoes gently and cook for 5 minutes or until 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Potato Slices (Dehydrated)",
+        10,
+        "lbs"
+      ],
+      [
+        "Water  ",
+        6,
+        "gal"
+      ],
+      [
+        "Pepper",
+        2,
+        "tbs"
+      ],
+      [
+        "Salt",
+        4,
+        "tbs"
+      ],
+      [
+        "Onion (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Bell Pepper (Diced)",
+        0.5,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        1,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "CAJUN RICE",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pot/tilt skillet, add all ingredients but the rice, and stir\nBring to a boil\nAdd rice and stir\nCover and cook for 10-15 minutes\nRemove from heat and let stand for 10-15 minutes\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Margarine",
+        1,
+        "oz"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Blackened Spice (Cajun)",
+        1,
+        "cups"
+      ],
+      [
+        "Rice",
+        2.25,
+        "gal"
+      ],
+      [
+        "Water",
+        4.5,
+        "gal"
+      ]
+    ]
+  },
+  {
+    "title": "SPANISH RICE",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pot/tilt skillet, add all ingredients but the rice, and stir\nBring to a boil\nAdd rice and stir\nCover and cook for 10-15 minutes\nRemove from heat and let stand for 10-15 minutes\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Shredded Potato",
+    "ingredients": [
+      [
+        "Salsa",
+        1,
+        "#10 can"
+      ],
+      [
+        "Rice",
+        2.25,
+        "gal"
+      ],
+      [
+        "Water",
+        4,
+        "gal"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Taco Seasoning",
+        1,
+        "cups"
+      ],
+      [
+        "Margarine",
+        1,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "WHITE RICE",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pot/tilt skillet, add all ingredients but the rice, and stir\nBring to a boil\nAdd rice and stir\nCover and cook for 10-15 minutes\nRemove from heat and let stand for 10-15 minutes\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Shredded Potato",
+    "ingredients": [
+      [
+        "Margarine",
+        8,
+        "oz"
+      ],
+      [
+        "Onions (Diced)",
+        1,
+        "lbs"
+      ],
+      [
+        "Salt",
+        2,
+        "tbs"
+      ],
+      [
+        "Rice",
+        2.25,
+        "gal"
+      ],
+      [
+        "Water",
+        4.5,
+        "gal"
+      ]
+    ]
+  },
+  {
+    "title": "BAKED BREAD",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Bread",
+    "cooking_notes": "Pour warm water into mixer bowl, add Bread/Roll mix.  Blend on low speed for 1 minute using a dough hook\nStop Mixer, Scrap bowl and hook\nBlend on medium speed for 7-10 minutes until dough is well mixed. Do not over mix.\nOil top of dough and allow to rest for 10-15 minutes\nDivide dough into  workable units.  Place dough on well-floured surface and knead, incorporating flour.\nForm into 3 oz balls and place into greased pan\nProof in a warm spot until double in size (near oven is typically a good spot)\nBake at 350 dgrees for 10-15 minutes\nDough can be made early, divided into 3oz balls and frozen for future use.  \nTo Bake, thaw, covered in fridge. Pull early in th morning and put in warm spot to proof (double in size) ",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Shredded Potato",
+    "ingredients": [
+      [
+        "Bread/Roll Mix",
+        15,
+        "lbs"
+      ],
+      [
+        "Water (100 degree)",
+        7.5,
+        "gal"
+      ]
+    ]
+  },
+  {
+    "title": "BISCUIT",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "Grid Cut",
+    "min_temp": "165F",
+    "item_type": "Bread",
+    "cooking_notes": "Follow Instructions on bag\nUse grid to cut, based on menus grid size.\nCover, serve within 2 days",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Shredded Potato",
+    "ingredients": [
+      [
+        "Biscuit Mix",
+        15,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        3,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "CORN BREAD",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "Grid Cut",
+    "min_temp": "165F",
+    "item_type": "Bread",
+    "cooking_notes": "Follow Instructions on bag\nUse grid to cut, based on menus grid size.\nCover, serve within 2 days",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Shredded Potato",
+    "ingredients": [
+      [
+        "Corn Bread Mix",
+        15,
+        "lbs"
+      ],
+      [
+        "Margarine",
+        3,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "GARLIC BREAD",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "4oz",
+    "min_temp": "165F",
+    "item_type": "Bread",
+    "cooking_notes": "Pour warm water into mixer bowl, add Bread/Roll mix Blend on low speed for 1 minute using a dough hook.  Stop Mixer, Scrap bowl and hook Blend on medium speed for 7-109 minutes until dough is well mixed. Do not over mix. Oil top of dough and allow to rest for 10-15 minutes Divide dough into  workable units.  Place dough on well-floured surface and knead, incorporating flour. Form into 3 oz balls and place into greased pan.  Proof in a warm spot until double in size (near oven is typically a good spot) Bake at 350 dgrees for 10-15 minutes  Dough can be made early, divided into 3oz balls and frozen for future use.   To Bake, thaw, covered in fridge. Pull early in th morning and put in warm spot to proof (double in size)",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Shredded Potato",
+    "ingredients": [
+      [
+        "Bread/Roll Mix",
+        15,
+        "lbs"
+      ],
+      [
+        "Water (100 degree)",
+        7.5,
+        "gal"
+      ],
+      [
+        "Margarine",
+        1,
+        "lbs"
+      ],
+      [
+        "Granulated Garlic",
+        2,
+        "tbs"
+      ]
+    ]
+  },
+  {
+    "title": "CUBED POTATOES",
+    "recipe_type": "starch",
+    "calories": "",
+    "portion_size": "8oz",
+    "min_temp": "165F",
+    "item_type": "Starch",
+    "cooking_notes": "In a large pan, use oil to saute peppers and onions\nAdd potatoes. Stir well\nHeat to 165 degrees\nServe hot or hold above 140 degrees",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: Shredded Potato",
+    "ingredients": [
+      [
+        "Potatoes (Diced, Cooked & Drained)",
+        45,
+        "LBS"
+      ],
+      [
+        "Salt",
+        2,
+        "TBS"
+      ]
+    ]
+  },
+  {
+    "title": "Sugar Cookie Cake",
+    "recipe_type": "dessert",
+    "calories": "",
+    "portion_size": "Grid Cut",
+    "min_temp": "165F",
+    "item_type": "Bread",
+    "cooking_notes": "Follow Instructions on bag\nUse grid to cut, based on menus grid size.\nCover, serve within 2 days",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: ",
+    "ingredients": [
+      [
+        "Sugar Cookie Mix",
+        15,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "White Cake",
+    "recipe_type": "Dessert",
+    "calories": "",
+    "portion_size": "Grid Cut",
+    "min_temp": "165F",
+    "item_type": "Bread",
+    "cooking_notes": "Follow Instructions on bag\nUse grid to cut, based on menus grid size.\nCover, serve within 2 days",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: ",
+    "ingredients": [
+      [
+        "White Cake Mix",
+        15,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "Yellow Cake",
+    "recipe_type": "Dessert",
+    "calories": "",
+    "portion_size": "Grid Cut",
+    "min_temp": "165F",
+    "item_type": "Bread",
+    "cooking_notes": "Follow Instructions on bag\nUse grid to cut, based on menus grid size.\nCover, serve within 2 days",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: ",
+    "ingredients": [
+      [
+        "Yellow Cake Mix",
+        15,
+        "lbs"
+      ]
+    ]
+  },
+  {
+    "title": "HONEY BUN COFFEE CAKE",
+    "recipe_type": "breakfast",
+    "calories": "",
+    "portion_size": "1/48 cut",
+    "min_temp": "N/A",
+    "item_type": "bread",
+    "cooking_notes": "Make your yellow cake mix following the instructions on the bag (5lbs of mix to 5 cups of water per pan)\nPour HALF cake mix into greased sheet pans and level\nIn a separate bowl, mix syrup, cinnamon, powdered sugar vanilla ; pour over batter\nadd remaining batter;  swirl\nBake at 350 dgrees for 15-20 minutes",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands Use clean and sanitized utensils/equipment while prepping/cooking Return ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability:",
+    "ingredients": [
+      [
+        "Yellow Cake Mix",
+        12.5,
+        "lbs"
+      ],
+      [
+        "SYRUP",
+        10,
+        "cups"
+      ],
+      [
+        "CINNAMON",
+        0.75,
+        "cups"
+      ],
+      [
+        "POWDERED SUGAR",
+        2.5,
+        "QT"
+      ],
+      [
+        "VANILLA",
+        0.5,
+        "cups"
+      ],
+      [
+        "WATER",
+        2.5,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "POWDERED SUGAR GLAZE",
+    "recipe_type": "Dessert",
+    "calories": 791,
+    "portion_size": "1/48 cut",
+    "min_temp": "",
+    "item_type": "",
+    "cooking_notes": "Mix all ingredients until smooth, adding more water if necessary.  \nCover tightly until needed.  Stir before using",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: ",
+    "ingredients": [
+      [
+        "POWDERED SUGAR",
+        4,
+        "lbs"
+      ],
+      [
+        "SYRUP",
+        1,
+        "cups"
+      ],
+      [
+        "VANILLA",
+        2.5,
+        "tsp"
+      ],
+      [
+        "WATER",
+        1.5,
+        "cups"
+      ]
+    ]
+  },
+  {
+    "title": "ICED CAKE",
+    "recipe_type": "Dessert",
+    "calories": 295,
+    "portion_size": "1/48 cut",
+    "min_temp": "N/A",
+    "item_type": "",
+    "cooking_notes": "Follow Instructions on bag to make cake.  \nMix until smooth, adding more water if necessary.  Allow cake to cool.  Drizzle glaze on top\nUse grid to cut, based on menus grid size. Cover, serve within 2 days",
+    "critical_control_point": "Wash hands before handling food and after handling any raw food, or if any interruptions that may contaminate hands\nUse clean and sanitized utensils/equipment while prepping/cooking\nReturn ingredients to refrigerated storage if preparation is interrupted",
+    "substitutions": "In order of availability: ",
+    "ingredients": [
+      [
+        "Ingredient",
+        "QTY",
+        "UNIT"
+      ],
+      [
+        "Yellow Cake Mix",
+        15,
+        "lbs"
+      ],
+      [
+        "POWDERED SUGAR",
+        4,
+        "lbs"
+      ],
+      [
+        "SYRUP",
+        1,
+        "cups"
+      ],
+      [
+        "VANILLA",
+        2.5,
+        "tsp"
+      ],
+      [
+        "WATER",
+        1.5,
+        "cups"
+      ]
+    ]
+  }
+]

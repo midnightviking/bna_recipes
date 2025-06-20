@@ -1,0 +1,42 @@
+{
+	"name": "bna-recipe-sk",
+	"private": true,
+	"version": "0.7.1",
+	"type": "module",
+	"scripts": {
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview",
+		"prepare": "svelte-kit sync || echo ''",
+		"format": "prettier --write .",
+		"lint": "prettier --check .",
+		"prepare-theme": "npm run smui-theme-light && npm run smui-theme-dark",
+		"smui-theme-light": "smui-theme compile static/smui.css -i src/theme",
+		"smui-theme-dark": "smui-theme compile static/smui-dark.css -i src/theme/dark",
+		"watch-theme": "chokidar \"src/theme/**/*.scss\" -c \"npm run prepare-theme\""
+	},
+	"devDependencies": {
+		"@smui/data-table": "^8.0.0-beta.3",
+		"@smui/dialog": "^8.0.0-beta.3",
+		"@smui/layout-grid": "^8.0.0-beta.3",
+		"@smui/paper": "^8.0.0-beta.3",
+		"@sveltejs/adapter-auto": "^6.0.0",
+		"@sveltejs/kit": "^2.16.0",
+		"@sveltejs/vite-plugin-svelte": "^5.0.0",
+		"chokidar-cli": "^3.0.0",
+		"prettier": "^3.4.2",
+		"prettier-plugin-svelte": "^3.3.3",
+		"smui-theme": "^8.0.0-beta.3",
+		"svelte": "^5.0.0",
+		"svelte-printpdf": "^1.0.2-metadata",
+		"vite": "^6.2.6",
+		"vite-plugin-devtools-json": "^0.2.0"
+	},
+	"dependencies": {
+		"@smui/button": "^8.0.0-beta.3",
+		"@smui/select": "^8.0.0-beta.3",
+		"@smui/textfield": "^8.0.0-beta.3",
+		"better-sqlite3": "^11.10.0",
+		"print-js": "^1.6.0"
+	}
+}
