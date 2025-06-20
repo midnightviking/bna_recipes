@@ -1,9 +1,9 @@
 <script>
 	import '../global.scss';
 </script>
-<h1>Welcome to SvelteKit</h1>
+<h1>Temp dash</h1>
 <hr>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+
 <ul>
 	<li>
 		<a href="/recipes">recipes</a>
