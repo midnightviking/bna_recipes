@@ -1,4 +1,5 @@
 <script>
+	
 	import '../global.scss';
 </script>
 <h1>Temp dash</h1>
