@@ -6,25 +6,28 @@
 
 
   
-  let recipes = [];
-  let allIngredients = [];
-  let units = [];
-  let editing = false;
+  let recipes = $state([]);
+  let allIngredients = $state([]);
+  let units = $state([]);
+  let editing = $state(false);
   let editId = null;
-  let showForm = false;
+  let showForm = $state(false);
 
   // Recipe fields
-  let title = '';
-  let minTemp = '';
-  let itemType = '';
-  let portionSize = '';
-  let calories = '';
-  let category = '';
-  let instructions = '';
-  let ccp = '';
-  let substitutions = '';
-  let initialServings = 100;
-  let ingredients = [];
+  let recipeFormF = $state({
+    title : '',
+    minTemp : '',
+    itemType : '',
+    portionSize : '',
+    calories : '',
+    category : '',
+    instructions : '',
+    ccp : '',
+    substitutions : '',
+    initialServings : 100,
+    ingredients : [],
+  })
+  
 
   // For adding a new ingredient to the recipe
   let newIngredientId = '';
@@ -55,17 +58,9 @@
     if (recipe) {
       editing = true;
       editId = recipe.id;
-      title = recipe.title;
-      minTemp = recipe.minTemp;
-      itemType = recipe.itemType;
-      portionSize = recipe.portionSize;
-      calories = recipe.calories;
-      category = recipe.category;
-      instructions = recipe.instructions;
-      ccp = recipe.ccp;
-      substitutions = recipe.substitutions;
-      initialServings = recipe.initialServings;
-      ingredients = recipe.ingredients ? recipe.ingredients.map(i => ({
+
+      recipeFormF = Object.assign(recipe);
+      recipeFormF.ingredients = recipe.ingredients ? recipe.ingredients.map(i => ({
         ingredient_id: i.ingredient_id,
         name: i.name,
         quantity: i.quantity,
@@ -74,7 +69,7 @@
       })) : [];
     } else {
       resetForm();
-    }
+    } 
   }
 
   function closeForm() {
@@ -140,7 +135,7 @@
         body: JSON.stringify(recipe)
       });
     }
-    await loadRecipes();
+    await loadRecipes(true);
     closeForm();
   }
 
@@ -150,17 +145,29 @@
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ id })
     });
-    await loadRecipes();
+    await loadRecipes(true);
   }
 
-  async function loadRecipes() {
+  let isLoadedRecipes = $state(false);
+  let isLoadedIngs = $state(false);
+
+  async function loadRecipes(refresh=false) {
+    
+    if(!refresh && isLoadedRecipes){
+      console.log("already loadaed?");
+      return;
+    }
     const res = await fetch('/api/recipes');
     if (res.ok) {
       recipes = await res.json();
+      isLoadedRecipes = true;
     }
   }
 
-  async function loadIngredientsAndUnits() {
+  async function loadIngredientsAndUnits(refresh=false) {
+    if(!refresh && isLoadedIngs){
+      return;
+    }
     const [ingRes, unitRes] = await Promise.all([
       fetch('/api/ingredients'),
       fetch('/api/units')
@@ -171,12 +178,16 @@
     if (unitRes.ok) {
       units = await unitRes.json();
     }
+
+    isLoadedIngs = true;
   }
 
-  onMount(() => {
-    loadRecipes();
-    loadIngredientsAndUnits();
+  onMount(async () => {
+    await loadRecipes();
+    await loadIngredientsAndUnits();
+    
   });
+
 </script>
 
 <h1>Recipes</h1>
@@ -185,6 +196,7 @@
     <p>No recipes found.</p>
   {/if}
   {#each recipes as recipe}
+    
     <div class="recipe-card">
       <div class="recipe-title">{recipe.title}</div>
       <div class="recipe-category">{recipe.category}</div>
@@ -198,26 +210,26 @@
 {#if showForm}
   <div class="recipe-form">
     <h2>{editing ? 'Edit' : 'Add'} Recipe</h2>
-    <Textfield bind:value={title} label="Title" required class="recipe-title-field" />
-    <Textfield bind:value={minTemp} label="Minimum Temp (F)" type="number" class="recipe-min-temp-field" />
-    <Select bind:value={itemType} label="Item Type" class="recipe-item-type-field">
+    <Textfield bind:value={recipeFormF.title} label="Title" required class="recipe-title-field" />
+    <Textfield bind:value={recipeFormF.minTemp} label="Minimum Temp (F)" type="number" class="recipe-min-temp-field" />
+    <Select bind:value={recipeFormF.itemType} label="Item Type" class="recipe-item-type-field">
       <Option value="" disabled selected>Select type</Option>
       {#each itemTypes as type}
         <Option value={type}>{type}</Option>
       {/each}
     </Select>
-    <Textfield bind:value={portionSize} label="Portion Size" class="recipe-portion-size-field" />
-    <Textfield bind:value={calories} label="Calories" type="number" class="recipe-calories-field" />
-    <Select bind:value={category} label="Category" class="recipe-category-field">
+    <Textfield bind:value={recipeFormF.portionSize} label="Portion Size" class="recipe-portion-size-field" />
+    <Textfield bind:value={recipeFormF.calories} label="Calories" type="number" class="recipe-calories-field" />
+    <Select bind:value={recipeFormF.category} label="Category" class="recipe-category-field">
       <Option value="" disabled selected>Select category</Option>
       {#each categories as cat}
         <Option value={cat}>{cat}</Option>
       {/each}
     </Select>
-    <Textfield bind:value={instructions} label="Cooking Instructions" textarea class="recipe-instructions-field" />
-    <Textfield bind:value={ccp} label="Critical Control Point (CCP)" class="recipe-ccp-field" />
-    <Textfield bind:value={substitutions} label="Substitutions" class="recipe-substitutions-field" />
-    <Textfield bind:value={initialServings} label="Initial Servings Size" type="number" class="recipe-initial-servings-field" />
+    <Textfield bind:value={recipeFormF.instructions} label="Cooking Instructions" textarea class="recipe-instructions-field" />
+    <Textfield bind:value={recipeFormF.ccp} label="Critical Control Point (CCP)" class="recipe-ccp-field" />
+    <Textfield bind:value={recipeFormF.substitutions} label="Substitutions" class="recipe-substitutions-field" />
+    <Textfield bind:value={recipeFormF.initialServings} label="Initial Servings Size" type="number" class="recipe-initial-servings-field" />
     <div class="recipe-ingredients-section">
       <h3>Ingredients</h3>
       <div class="add-ingredient-row">
@@ -237,7 +249,7 @@
         <Button onclick={addIngredientToRecipe}>Add</Button>
       </div>
       <ul class="recipe-ingredient-list">
-        {#each ingredients as ing}
+        {#each recipeFormF.ingredients as ing}
           <li>
             {ing.name} - {ing.quantity} {ing.unit_name}
             <Button onclick={() => removeIngredientFromRecipe(ing.ingredient_id)} color="error">Remove</Button>

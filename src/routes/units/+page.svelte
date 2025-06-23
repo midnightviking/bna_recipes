@@ -2,8 +2,19 @@
 	/** @type {{ data: import('./$types').PageData }} */
 	let { data } = $props();
 	import { onMount } from 'svelte';
-	import Button from '@smui/button';
+	
 	import Textfield from '@smui/textfield';
+	
+	import Button, { Label } from '@smui/button';
+	import IconButton, { Icon } from '@smui/icon-button';
+	import Card, {
+    Content,
+    PrimaryAction,
+    Actions,
+    ActionButtons,
+    ActionIcons,
+  	} from '@smui/card';
+
 
 	let units = $state([]);
 	let editing = false;
@@ -70,12 +81,18 @@
 		});
 		await loadUnits();
 	}
-
-	async function loadUnits() {
+	let isLoaded = $state(false);
+	async function loadUnits(refresh=false) {
+		if(!refresh && isLoaded){
+			console.log("already loaded");
+			return;
+		}
 		const res = await fetch('/api/units');
 		if (res.ok) {
 			units = await res.json();
+			isLoaded = true;
 		}
+		
 	}
 
 	onMount(() => {
@@ -85,21 +102,33 @@
 
 <h1>Units</h1>
 <div class="unit-list">
+	<Button class="add-unit" type="button" onclick={() => openForm()}>Add Unit</Button>
 	{#if units.length === 0}
 		<p>No units found.</p>
 	{/if}
 	{#each units as unit}
-		<div class="unit-card">
-			<div class="unit-name">{unit.name}</div>
-			<div class="unit-conversion-unit">{unit.conversion_unit}</div>
-			<div class="unit-conversion-threshold">Threshold: {unit.conversion_threshold}</div>
-			<div class="unit-conversion-formula">Formula: {unit.conversion_formula}</div>
-			<Button onclick={() => openForm(unit)}>Edit</Button>
-			<Button onclick={() => removeUnit(unit.id)} color="error">Delete</Button>
-		</div>
+		<Card class="card">
+			<Content class="mdc-typography--body2">
+				<div class="unit-name">{unit.name}</div>
+				<div class="unit-conversion-unit">{unit.conversion_unit}</div>
+				<div class="unit-conversion-threshold">Threshold: {unit.conversion_threshold}</div>
+				<div class="unit-conversion-formula">Formula: {unit.conversion_formula}</div>
+			</Content>
+			<Actions>
+				<ActionButtons>
+				  <Button onclick={() => openForm(unit)}>
+					<Label>Edit</Label>
+				  </Button>
+				  <Button onclick={() => removeUnit(unit.id)} color="error">
+					<Label>Delete</Label>
+				  </Button>
+				</ActionButtons>
+				
+			  </Actions>
+		</Card>
 	{/each}
 </div>
-<Button class="add-unit" type="button" onclick={() => openForm()}>Add Unit</Button>
+
 {#if showForm}
 	<div class="unit-form">
 		<h2>{editing ? 'Edit' : 'Add'} Unit</h2>
@@ -127,5 +156,8 @@
 	</div>
 {/if}
 
-<style>
+<style lang="scss">
+.card{
+	margin-bottom:2rem;
+}
 </style>
