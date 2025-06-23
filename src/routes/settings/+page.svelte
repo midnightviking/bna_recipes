@@ -46,7 +46,6 @@
         break;
 
       case "tbs":
-      case "tbs":
       case "tbsp":
         ret = "tbsp";
         break;
