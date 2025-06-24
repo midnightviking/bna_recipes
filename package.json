@@ -33,13 +33,14 @@
 		"svelte": "^5.0.0",
 		"svelte-printpdf": "^1.0.2-metadata",
 		"vite": "^6.2.6",
-		"vite-plugin-devtools-json": "^0.2.0"
-	},
-	"dependencies": {
+		"vite-plugin-devtools-json": "^0.2.0",
 		"@smui/button": "^8.0.0-beta.3",
 		"@smui/select": "^8.0.0-beta.3",
 		"@smui/textfield": "^8.0.0-beta.3",
-		"better-sqlite3": "^11.10.0",
+		"better-sqlite3": "^11.10.0"
+	},
+	"dependencies": {
+
 		"print-js": "^1.6.0"
 	}
 }
