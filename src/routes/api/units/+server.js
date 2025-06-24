@@ -3,11 +3,17 @@ import { units } from '$lib/server/schema.js';
 import { eq } from 'drizzle-orm';
 
 export async function GET({ env } = {}) {
-  const drizzle = typeof db === 'function' ? db(env) : db;
-  const result = await drizzle.select().from(units);
-  return new Response(JSON.stringify(result), {
-    headers: { 'Content-Type': 'application/json' }
-  });
+  try { 
+    const drizzle = typeof db === 'function' ? db(env) : db;  
+    const result = await drizzle.select().from(units);
+    return new Response(JSON.stringify(result), {
+      headers: { 'Content-Type': 'application/json' }
+    });
+  } catch (e) {
+      console.error({
+        message: e.message
+      });
+  }
 }
 
 export async function POST({ request, env }) {
