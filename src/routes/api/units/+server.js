@@ -1,76 +1,48 @@
 import db from '$lib/server/db.js';
 
-function isD1() {
-  return typeof db.query === 'function' && db.query.length >= 2;
+export async function GET() {
+  const stmt = db.prepare('SELECT * FROM units');
+  const units = stmt.all();
+  return new Response(JSON.stringify(units), {
+    headers: { 'Content-Type': 'application/json' }
+  });
 }
 
-export async function GET({ env } = {}) {
-  if (isD1()) {
-    const result = await db.query('SELECT * FROM units', [], env);
-    return new Response(JSON.stringify(result.results || result), {
-      headers: { 'Content-Type': 'application/json' }
-    });
-  } else {
-    const units = db.query('SELECT * FROM units');
-    return new Response(JSON.stringify(units), {
-      headers: { 'Content-Type': 'application/json' }
-    });
-  }
-}
-
-export async function POST({ request, env } = {}) {
+export async function POST({ request }) {
   const { name, conversion_unit, conversion_threshold, conversion_formula } = await request.json();
-  if (isD1()) {
-    const result = await db.query(
-      'INSERT INTO units (name, conversion_unit, conversion_threshold, conversion_formula) VALUES (?, ?, ?, ?)',
-      [name, conversion_unit || null, conversion_threshold === '' ? null : conversion_threshold, conversion_formula || null],
-      env
-    );
-    return new Response(JSON.stringify({ id: result.meta?.last_row_id, name, conversion_unit, conversion_threshold, conversion_formula }), {
-      status: 201,
-      headers: { 'Content-Type': 'application/json' }
-    });
-  } else {
-    const info = db.query(
-      'INSERT INTO units (name, conversion_unit, conversion_threshold, conversion_formula) VALUES (?, ?, ?, ?)',
-      [name, conversion_unit || null, conversion_threshold === '' ? null : conversion_threshold, conversion_formula || null]
-    );
-    return new Response(JSON.stringify({ id: info.lastInsertRowid, name, conversion_unit, conversion_threshold, conversion_formula }), {
-      status: 201,
-      headers: { 'Content-Type': 'application/json' }
-    });
-  }
+  const stmt = db.prepare('INSERT INTO units (name, conversion_unit, conversion_threshold, conversion_formula) VALUES (?, ?, ?, ?)');
+  const info = stmt.run(
+    name,
+    conversion_unit || null,
+    conversion_threshold === '' ? null : conversion_threshold,
+    conversion_formula || null
+  );
+  const unit = { id: info.lastInsertRowid, name, conversion_unit, conversion_threshold, conversion_formula };
+  return new Response(JSON.stringify(unit), {
+    status: 201,
+    headers: { 'Content-Type': 'application/json' }
+  });
 }
 
-export async function PUT({ request, env } = {}) {
+export async function PUT({ request }) {
   const { id, name, conversion_unit, conversion_threshold, conversion_formula } = await request.json();
-  if (isD1()) {
-    await db.query(
-      'UPDATE units SET name = ?, conversion_unit = ?, conversion_threshold = ?, conversion_formula = ? WHERE id = ?',
-      [name, conversion_unit || null, conversion_threshold === '' ? null : conversion_threshold, conversion_formula || null, id],
-      env
-    );
-    return new Response(JSON.stringify({ id, name, conversion_unit, conversion_threshold, conversion_formula }), {
-      headers: { 'Content-Type': 'application/json' }
-    });
-  } else {
-    db.query(
-      'UPDATE units SET name = ?, conversion_unit = ?, conversion_threshold = ?, conversion_formula = ? WHERE id = ?',
-      [name, conversion_unit || null, conversion_threshold === '' ? null : conversion_threshold, conversion_formula || null, id]
-    );
-    return new Response(JSON.stringify({ id, name, conversion_unit, conversion_threshold, conversion_formula }), {
-      headers: { 'Content-Type': 'application/json' }
-    });
-  }
+  const stmt = db.prepare('UPDATE units SET name = ?, conversion_unit = ?, conversion_threshold = ?, conversion_formula = ? WHERE id = ?');
+  stmt.run(
+    name,
+    conversion_unit || null,
+    conversion_threshold === '' ? null : conversion_threshold,
+    conversion_formula || null,
+    id
+  );
+  return new Response(JSON.stringify({ id, name, conversion_unit, conversion_threshold, conversion_formula }), {
+    headers: { 'Content-Type': 'application/json' }
+  });
 }
 
-export async function DELETE({ request, env } = {}) {
+export async function DELETE({ request }) {
   const { id } = await request.json();
-  if (isD1()) {
-    await db.query('DELETE FROM units WHERE id = ?', [id], env);
-  } else {
-    db.query('DELETE FROM units WHERE id = ?', [id]);
-  }
+  const stmt = db.prepare('DELETE FROM units WHERE id = ?');
+  stmt.run(id);
   return new Response(JSON.stringify({ success: true }), {
     headers: { 'Content-Type': 'application/json' }
   });
