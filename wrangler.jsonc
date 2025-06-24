@@ -1,12 +1,11 @@
 {
+	"name":"bna_recipes",
 	"compatibility_flags": ["nodejs_compat"],
 	"compatibility_date": "2025-05-25", 
-	"d1_databases": [
-        {
-            "binding": "DB",
-            "database_name": "bna_recipes",
-            "database_id": "a41220ef-9aa2-4b6b-b1ab-21c614bc02d0",
-            "migrations_dir": "drizzle/migrations"
-        }
-    ]
+	"d1_databases": [{
+		"binding": "DB",
+		"database_name": "bna_recipes",
+		"database_id": "a41220ef-9aa2-4b6b-b1ab-21c614bc02d0",
+		"migrations_dir": "drizzle/migrations"
+	}]
 }
