@@ -9,10 +9,10 @@ let dbInstance;
 
 if (!useD1) {
   // Local development: better-sqlite3
-  const Database = (await import('better-sqlite3')).default;
-  const sqlite = new Database('app.db', { verbose: console.log });
-  sqlite.pragma('journal_mode = WAL');
-  dbInstance = drizzleSqlite(sqlite, { schema });
+//   const Database = (await import('better-sqlite3')).default;
+//   const sqlite = new Database('app.db', { verbose: console.log });
+//   sqlite.pragma('journal_mode = WAL');
+  dbInstance = drizzleSqlite({ schema });
 } else {
   // Production: Cloudflare D1
   dbInstance = (env) => drizzleD1(env.DB, { schema });
