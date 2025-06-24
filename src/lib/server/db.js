@@ -78,4 +78,5 @@ async function getDb() {
 }
 
 const dbInstance = await getDb();
+console.log(dbInstance);
 export default dbInstance;
