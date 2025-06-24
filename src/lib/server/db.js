@@ -1,6 +1,6 @@
 // Drizzle ORM DB abstraction: uses better-sqlite3 locally, Cloudflare D1 in production
 import { drizzle as drizzleSqlite } from 'drizzle-orm/better-sqlite3';
-import { drizzle as drizzleD1 } from 'drizzle-orm/cloudflare-d1';
+import { drizzle as drizzleD1 } from 'drizzle-orm/d1';
 import * as schema from './schema.js';
 
 const useD1 = process.env.USE_D1 === 'true' || process.env.NODE_ENV === 'production';
