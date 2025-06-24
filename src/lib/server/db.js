@@ -1,21 +1,8 @@
-// Drizzle ORM DB abstraction: uses better-sqlite3 locally, Cloudflare D1 in production
-import { drizzle as drizzleSqlite } from 'drizzle-orm/better-sqlite3';
+// Drizzle ORM DB abstraction: Cloudflare D1 only
 import { drizzle as drizzleD1 } from 'drizzle-orm/d1';
 import * as schema from './schema.js';
 
-const useD1 = process.env.USE_D1 === 'true' || process.env.NODE_ENV === 'production';
-
-let dbInstance;
-
-if (!useD1) {
-  // Local development: better-sqlite3
-//   const Database = (await import('better-sqlite3')).default;
-//   const sqlite = new Database('app.db', { verbose: console.log });
-//   sqlite.pragma('journal_mode = WAL');
-  dbInstance = drizzleSqlite({ schema });
-} else {
-  // Production: Cloudflare D1
-  dbInstance = (env) => drizzleD1(env.DB, { schema });
-}
+// Only Cloudflare D1 is supported now
+const dbInstance = (env) => drizzleD1(env.DB, { schema });
 
 export default dbInstance;
