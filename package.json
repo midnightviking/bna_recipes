@@ -13,7 +13,8 @@
 		"prepare-theme": "npm run smui-theme-light && npm run smui-theme-dark",
 		"smui-theme-light": "smui-theme compile static/smui.css -i src/theme",
 		"smui-theme-dark": "smui-theme compile static/smui-dark.css -i src/theme/dark",
-		"watch-theme": "chokidar \"src/theme/**/*.scss\" -c \"npm run prepare-theme\""
+		"watch-theme": "chokidar \"src/theme/**/*.scss\" -c \"npm run prepare-theme\"",
+		"prebuild": "npm install --include=dev"
 	},
 	"devDependencies": {
 		"@smui/card": "^8.0.0-beta.3",
