@@ -1,111 +1,103 @@
 import db from '$lib/server/db.js';
-import { json } from '@sveltejs/kit';
+import { recipes, recipe_ingredients, ingredients as ingredientsTable, units as unitsTable } from '$lib/server/schema.js';
+import { eq } from 'drizzle-orm';
 
-function isD1() {
-  return typeof db.query === 'function' && db.query.length >= 2;
-}
-
-async function getRecipeWithIngredients(recipeId, env) {
-  if (isD1()) {
-    const recipeArr = await db.query('SELECT * FROM recipes WHERE id = ?', [recipeId], env);
-    const recipe = (recipeArr.results || recipeArr)[0];
-    if (!recipe) return null;
-    const ingredients = (await db.query(`SELECT ri.ingredient_id, i.name, ri.quantity, u.id as unit_id, u.name as unit_name FROM recipe_ingredients ri JOIN ingredients i ON ri.ingredient_id = i.id LEFT JOIN units u ON ri.unit = u.id WHERE ri.recipe_id = ?`, [recipeId], env)).results || [];
-    return { ...recipe, ingredients };
-  } else {
-    const recipeStmt = db.query('SELECT * FROM recipes WHERE id = ?', [recipeId]);
-    const recipe = Array.isArray(recipeStmt) ? recipeStmt[0] : recipeStmt;
-    if (!recipe) return null;
-    const ingredients = db.query(`SELECT ri.ingredient_id, i.name, ri.quantity, u.id as unit_id, u.name as unit_name FROM recipe_ingredients ri JOIN ingredients i ON ri.ingredient_id = i.id LEFT JOIN units u ON ri.unit = u.id WHERE ri.recipe_id = ?`, [recipeId]);
-    return { ...recipe, ingredients };
-  }
+async function getRecipeWithIngredients(drizzle, recipeId) {
+  const recipe = (await drizzle.select().from(recipes).where(eq(recipes.id, recipeId)))[0];
+  if (!recipe) return null;
+  const ingredients = await drizzle
+    .select({
+      ingredient_id: recipe_ingredients.ingredient_id,
+      name: ingredientsTable.name,
+      quantity: recipe_ingredients.quantity,
+      unit_id: unitsTable.id,
+      unit_name: unitsTable.name
+    })
+    .from(recipe_ingredients)
+    .leftJoin(ingredientsTable, eq(recipe_ingredients.ingredient_id, ingredientsTable.id))
+    .leftJoin(unitsTable, eq(recipe_ingredients.unit, unitsTable.id))
+    .where(eq(recipe_ingredients.recipe_id, recipeId));
+  return { ...recipe, ingredients };
 }
 
 export async function GET({ env } = {}) {
-  if (isD1()) {
-    const recipesArr = await db.query('SELECT * FROM recipes', [], env);
-    const recipes = recipesArr.results || recipesArr;
-    const result = await Promise.all(recipes.map(r => getRecipeWithIngredients(r.id, env)));
-    return new Response(JSON.stringify(result), {
-      headers: { 'Content-Type': 'application/json' }
-    });
-  } else {
-    const recipes = db.query('SELECT * FROM recipes');
-    const result = recipes.map(r => getRecipeWithIngredients(r.id));
-    return new Response(JSON.stringify(result), {
-      headers: { 'Content-Type': 'application/json' }
-    });
-  }
+  const drizzle = typeof db === 'function' ? db(env) : db;
+  const allRecipes = await drizzle.select().from(recipes);
+  const result = await Promise.all(allRecipes.map(r => getRecipeWithIngredients(drizzle, r.id)));
+  return new Response(JSON.stringify(result), {
+    headers: { 'Content-Type': 'application/json' }
+  });
 }
 
 export async function POST({ request, env } = {}) {
+  const drizzle = typeof db === 'function' ? db(env) : db;
   const data = await request.json();
-  if (isD1()) {
-    const result = await db.query(`INSERT INTO recipes (title, minTemp, itemType, portionSize, calories, category, instructions, ccp, substitutions, initialServings) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`, [data.title, data.minTemp, data.itemType, data.portionSize, data.calories, data.category, data.instructions, data.ccp, data.substitutions, data.initialServings], env);
-    const recipeId = result.meta?.last_row_id;
-    if (Array.isArray(data.ingredients)) {
-      for (const ing of data.ingredients) {
-        await db.query('INSERT INTO recipe_ingredients (recipe_id, ingredient_id, quantity, unit) VALUES (?, ?, ?, ?)', [recipeId, ing.ingredient_id, ing.quantity, ing.unit_id], env);
-      }
+  const [inserted] = await drizzle.insert(recipes).values({
+    title: data.title,
+    minTemp: data.minTemp,
+    itemType: data.itemType,
+    portionSize: data.portionSize,
+    calories: data.calories,
+    category: data.category,
+    instructions: data.instructions,
+    ccp: data.ccp,
+    substitutions: data.substitutions,
+    initialServings: data.initialServings
+  }).returning();
+  if (Array.isArray(data.ingredients)) {
+    for (const ing of data.ingredients) {
+      await drizzle.insert(recipe_ingredients).values({
+        recipe_id: inserted.id,
+        ingredient_id: ing.ingredient_id,
+        quantity: ing.quantity,
+        unit: ing.unit_id
+      });
     }
-    const recipe = await getRecipeWithIngredients(recipeId, env);
-    return new Response(JSON.stringify(recipe), {
-      status: 201,
-      headers: { 'Content-Type': 'application/json' }
-    });
-  } else {
-    const info = db.query(`INSERT INTO recipes (title, minTemp, itemType, portionSize, calories, category, instructions, ccp, substitutions, initialServings) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`, [data.title, data.minTemp, data.itemType, data.portionSize, data.calories, data.category, data.instructions, data.ccp, data.substitutions, data.initialServings]);
-    if (Array.isArray(data.ingredients)) {
-      for (const ing of data.ingredients) {
-        db.query('INSERT INTO recipe_ingredients (recipe_id, ingredient_id, quantity, unit) VALUES (?, ?, ?, ?)', [info.lastInsertRowid, ing.ingredient_id, ing.quantity, ing.unit_id]);
-      }
-    }
-    const recipe = getRecipeWithIngredients(info.lastInsertRowid);
-    return new Response(JSON.stringify(recipe), {
-      status: 201,
-      headers: { 'Content-Type': 'application/json' }
-    });
   }
+  const recipe = await getRecipeWithIngredients(drizzle, inserted.id);
+  return new Response(JSON.stringify(recipe), {
+    status: 201,
+    headers: { 'Content-Type': 'application/json' }
+  });
 }
 
 export async function PUT({ request, env } = {}) {
+  const drizzle = typeof db === 'function' ? db(env) : db;
   const data = await request.json();
-  if (isD1()) {
-    await db.query(`UPDATE recipes SET title=?, minTemp=?, itemType=?, portionSize=?, calories=?, category=?, instructions=?, ccp=?, substitutions=?, initialServings=? WHERE id=?`, [data.title, data.minTemp, data.itemType, data.portionSize, data.calories, data.category, data.instructions, data.ccp, data.substitutions, data.initialServings, data.id], env);
-    await db.query('DELETE FROM recipe_ingredients WHERE recipe_id = ?', [data.id], env);
-    if (Array.isArray(data.ingredients)) {
-      for (const ing of data.ingredients) {
-        await db.query('INSERT INTO recipe_ingredients (recipe_id, ingredient_id, quantity, unit) VALUES (?, ?, ?, ?)', [data.id, ing.ingredient_id, ing.quantity, ing.unit_id], env);
-      }
+  await drizzle.update(recipes).set({
+    title: data.title,
+    minTemp: data.minTemp,
+    itemType: data.itemType,
+    portionSize: data.portionSize,
+    calories: data.calories,
+    category: data.category,
+    instructions: data.instructions,
+    ccp: data.ccp,
+    substitutions: data.substitutions,
+    initialServings: data.initialServings
+  }).where(eq(recipes.id, data.id));
+  await drizzle.delete(recipe_ingredients).where(eq(recipe_ingredients.recipe_id, data.id));
+  if (Array.isArray(data.ingredients)) {
+    for (const ing of data.ingredients) {
+      await drizzle.insert(recipe_ingredients).values({
+        recipe_id: data.id,
+        ingredient_id: ing.ingredient_id,
+        quantity: ing.quantity,
+        unit: ing.unit_id
+      });
     }
-    const recipe = await getRecipeWithIngredients(data.id, env);
-    return new Response(JSON.stringify(recipe), {
-      headers: { 'Content-Type': 'application/json' }
-    });
-  } else {
-    db.query(`UPDATE recipes SET title=?, minTemp=?, itemType=?, portionSize=?, calories=?, category=?, instructions=?, ccp=?, substitutions=?, initialServings=? WHERE id=?`, [data.title, data.minTemp, data.itemType, data.portionSize, data.calories, data.category, data.instructions, data.ccp, data.substitutions, data.initialServings, data.id]);
-    db.query('DELETE FROM recipe_ingredients WHERE recipe_id = ?', [data.id]);
-    if (Array.isArray(data.ingredients)) {
-      for (const ing of data.ingredients) {
-        db.query('INSERT INTO recipe_ingredients (recipe_id, ingredient_id, quantity, unit) VALUES (?, ?, ?, ?)', [data.id, ing.ingredient_id, ing.quantity, ing.unit_id]);
-      }
-    }
-    const recipe = getRecipeWithIngredients(data.id);
-    return new Response(JSON.stringify(recipe), {
-      headers: { 'Content-Type': 'application/json' }
-    });
   }
+  const recipe = await getRecipeWithIngredients(drizzle, data.id);
+  return new Response(JSON.stringify(recipe), {
+    headers: { 'Content-Type': 'application/json' }
+  });
 }
 
 export async function DELETE({ request, env } = {}) {
+  const drizzle = typeof db === 'function' ? db(env) : db;
   const { id } = await request.json();
-  if (isD1()) {
-    await db.query('DELETE FROM recipe_ingredients WHERE recipe_id = ?', [id], env);
-    await db.query('DELETE FROM recipes WHERE id = ?', [id], env);
-  } else {
-    db.query('DELETE FROM recipe_ingredients WHERE recipe_id = ?', [id]);
-    db.query('DELETE FROM recipes WHERE id = ?', [id]);
-  }
+  await drizzle.delete(recipe_ingredients).where(eq(recipe_ingredients.recipe_id, id));
+  await drizzle.delete(recipes).where(eq(recipes.id, id));
   return new Response(JSON.stringify({ success: true }), {
     headers: { 'Content-Type': 'application/json' }
   });
