@@ -4,7 +4,7 @@ const useD1 = process.env.USE_D1 === 'true' || process.env.NODE_ENV === 'product
 async function getDb() {
   if (!useD1) {
     // Local development: better-sqlite3
-    const Database = (await import('better-sqlite3')).default;
+    /* const Database = (await import('better-sqlite3')).default;
     const db = new Database('app.db', { verbose: console.log });
     db.pragma('journal_mode = WAL');
     // Table creation SQL
@@ -69,7 +69,7 @@ async function getDb() {
           return stmt.run(...params);
         }
       }
-    };
+    }; */
   } else {
     // Production: Cloudflare D1
     const dbCloudflare = (await import('./db-cloudflare.js')).default;
